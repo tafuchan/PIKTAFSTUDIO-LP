@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PIKTAF STUDIO - Game Development Team</title>
+    <meta name="description" content="PIKTAF STUDIO - インディーゲーム開発チーム。ユニークで心に残るゲーム体験を創造します。">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Noto+Sans+JP:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- ナビゲーション -->
+    <nav class="nav">
+        <div class="nav-inner">
+            <a href="#" class="nav-logo">PIKTAF<span>STUDIO</span></a>
+            <button class="nav-toggle" aria-label="メニュー">
+                <span></span><span></span><span></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#games">Games</a></li>
+                <li><a href="#team">Team</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ヒーローセクション -->
+    <section class="hero">
+        <canvas id="hero-canvas"></canvas>
+        <div class="hero-content">
+            <h1 class="hero-title">
+                <span class="hero-title-main">PIKTAF STUDIO</span>
+                <span class="hero-title-sub">Creating Worlds, One Pixel at a Time</span>
+            </h1>
+            <p class="hero-desc">インディーゲーム開発チーム</p>
+            <a href="#games" class="btn btn-primary">Our Games</a>
+        </div>
+        <div class="hero-scroll">
+            <span>Scroll</span>
+            <div class="hero-scroll-line"></div>
+        </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2 class="section-title">About Us</h2>
+            <div class="about-grid">
+                <div class="about-text">
+                    <p class="about-lead">ユニークで心に残るゲーム体験を。</p>
+                    <p>PIKTAF STUDIO は、独創的なアイデアと情熱で駆動するインディーゲーム開発チームです。私たちは「遊ぶ人の心に残る体験」を最も大切にし、ジャンルにとらわれない自由な発想でゲームを創り続けています。</p>
+                    <div class="about-stats">
+                        <div class="stat">
+                            <span class="stat-number" data-count="0">0</span>
+                            <span class="stat-label">Projects</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number" data-count="0">0</span>
+                            <span class="stat-label">Team Members</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">2025</span>
+                            <span class="stat-label">Founded</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="about-visual">
+                    <div class="about-card">
+                        <div class="about-card-icon">&#9889;</div>
+                        <h3>Innovation</h3>
+                        <p>既存の枠にとらわれない、新しいゲーム体験を追求します</p>
+                    </div>
+                    <div class="about-card">
+                        <div class="about-card-icon">&#9825;</div>
+                        <h3>Passion</h3>
+                        <p>ゲームへの愛と情熱が、すべての原動力です</p>
+                    </div>
+                    <div class="about-card">
+                        <div class="about-card-icon">&#9734;</div>
+                        <h3>Quality</h3>
+                        <p>細部にまでこだわり抜いた高品質な作品を届けます</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Games -->
+    <section id="games" class="section section-dark">
+        <div class="container">
+            <h2 class="section-title">Our Games</h2>
+            <p class="section-subtitle">開発中・リリース済みのタイトル</p>
+            <div class="games-grid">
+                <article class="game-card">
+                    <div class="game-card-image">
+                        <div class="game-card-placeholder">
+                            <span>Coming Soon</span>
+                        </div>
+                        <span class="game-card-badge">開発中</span>
+                    </div>
+                    <div class="game-card-body">
+                        <h3>タイトル未定</h3>
+                        <p>現在開発中の新作タイトル。詳細は近日公開予定です。</p>
+                        <div class="game-card-tags">
+                            <span class="tag">New</span>
+                        </div>
+                    </div>
+                </article>
+                <!-- 新しいゲームはここに追加 -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Team -->
+    <section id="team" class="section">
+        <div class="container">
+            <h2 class="section-title">Team</h2>
+            <p class="section-subtitle">PIKTAF STUDIO のメンバー</p>
+            <div class="team-grid">
+                <div class="team-card">
+                    <div class="team-avatar">
+                        <div class="team-avatar-placeholder">P</div>
+                    </div>
+                    <h3>メンバー名</h3>
+                    <p class="team-role">Director / Developer</p>
+                    <p class="team-desc">チームの紹介文をここに記載します。</p>
+                </div>
+                <!-- メンバー追加はここに -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog -->
+    <section id="blog" class="section section-dark">
+        <div class="container">
+            <h2 class="section-title">Blog</h2>
+            <p class="section-subtitle">開発日誌・お知らせ</p>
+            <div class="blog-grid">
+                <article class="blog-card">
+                    <div class="blog-card-date">
+                        <span class="blog-card-day">12</span>
+                        <span class="blog-card-month">Apr 2026</span>
+                    </div>
+                    <div class="blog-card-body">
+                        <h3><a href="#">PIKTAF STUDIO ホームページを公開しました</a></h3>
+                        <p>チームの公式サイトを公開しました。開発の進捗やお知らせをこちらで発信していきます。</p>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2 class="section-title">Contact</h2>
+            <p class="section-subtitle">お問い合わせ・お仕事のご依頼</p>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <p>お問い合わせやコラボレーションのご相談など、お気軽にご連絡ください。</p>
+                    <div class="contact-links">
+                        <a href="#" class="contact-link">
+                            <span class="contact-link-icon">&#9993;</span>
+                            <span>mail@example.com</span>
+                        </a>
+                        <a href="#" class="contact-link">
+                            <span class="contact-link-icon">&#120143;</span>
+                            <span>@piktaf_studio</span>
+                        </a>
+                        <a href="#" class="contact-link">
+                            <span class="contact-link-icon">&#9881;</span>
+                            <span>GitHub</span>
+                        </a>
+                    </div>
+                </div>
+                <form class="contact-form" action="#" method="post">
+                    <div class="form-group">
+                        <label for="name">お名前</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">メールアドレス</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="message">メッセージ</label>
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">送信する</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- フッター -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-inner">
+                <div class="footer-logo">PIKTAF<span>STUDIO</span></div>
+                <p class="footer-copy">&copy; 2025 PIKTAF STUDIO. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
