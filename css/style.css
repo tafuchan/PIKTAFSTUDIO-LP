@@ -501,6 +501,70 @@ a:hover { color: var(--color-primary); }
     letter-spacing: 1px;
 }
 
+/* --- About --- */
+.about-block {
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: center;
+    color: var(--color-text);
+    line-height: 2;
+}
+.about-block p {
+    margin-bottom: 16px;
+    font-size: 0.95rem;
+}
+.about-block p:last-child { margin-bottom: 0; }
+.about-block .about-note {
+    margin-top: 32px;
+    padding-top: 24px;
+    border-top: 1px dashed var(--color-border);
+    color: var(--color-text-light);
+    font-size: 0.82rem;
+}
+
+/* --- Contact (simple) --- */
+.contact-simple {
+    max-width: 520px;
+    margin: 0 auto;
+    text-align: center;
+}
+.contact-simple > p {
+    color: var(--color-text-light);
+    font-size: 0.95rem;
+    margin-bottom: 32px;
+    line-height: 2;
+}
+.contact-email {
+    display: inline-flex;
+    align-items: center;
+    gap: 14px;
+    padding: 16px 28px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    color: var(--color-text);
+    font-size: 0.95rem;
+    transition: all var(--transition);
+    box-shadow: var(--shadow);
+}
+.contact-email:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-hover);
+}
+.contact-email-icon {
+    width: 36px; height: 36px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg-alt);
+    border-radius: 50%;
+    color: var(--color-primary);
+    font-size: 0.85rem;
+    flex-shrink: 0;
+}
+
 /* --- Service --- */
 .service-grid {
     display: grid;

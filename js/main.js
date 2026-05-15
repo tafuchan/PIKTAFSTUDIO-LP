@@ -68,7 +68,7 @@ window.addEventListener('load', () => {
 // --- Scroll Fade-in Animation ---
 (function () {
     const targets = document.querySelectorAll(
-        '.section-header, .about-main, .about-card, .app-card, .service-card, .flow-step, .blog-card, .contact-grid, .trust-bar, .cta-box'
+        '.section-header, .about-block, .about-main, .about-card, .app-card, .service-card, .flow-step, .blog-card, .contact-grid, .contact-simple, .trust-bar, .cta-box'
     );
 
     targets.forEach((el) => el.classList.add('fade-in'));
