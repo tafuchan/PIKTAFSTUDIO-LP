@@ -21,6 +21,11 @@
     --color-text-light: #6a6a6a;
     --color-text-heading: #2a2a2a;
     --color-border: #d4e4e4;
+    --color-nav-bg: rgba(245, 249, 249, 0.9);
+    --color-nav-bg-solid: rgba(245, 249, 249, 0.97);
+    --color-hero-mid: #f0f7f7;
+    --color-card-placeholder-a: #eaf5f5;
+    --color-card-placeholder-b: #f0f5f5;
     --font-pixel: 'Silkscreen', 'DotGothic16', monospace;
     --font-body: 'Zen Maru Gothic', sans-serif;
     --radius: 16px;
@@ -29,6 +34,30 @@
     --shadow: 0 4px 20px rgba(0, 128, 128, 0.06);
     --shadow-hover: 0 8px 32px rgba(0, 128, 128, 0.1);
 }
+
+[data-theme="dark"] {
+    --color-bg: #0d1418;
+    --color-bg-alt: #131c20;
+    --color-surface: #1a242a;
+    --color-primary: #4dc4c4;
+    --color-primary-light: #7ad8d8;
+    --color-primary-dark: #2da3a3;
+    --color-accent: #b8c4c8;
+    --color-text: #d4dde0;
+    --color-text-light: #8a9499;
+    --color-text-heading: #f0f5f7;
+    --color-border: #243038;
+    --color-nav-bg: rgba(13, 20, 24, 0.85);
+    --color-nav-bg-solid: rgba(13, 20, 24, 0.97);
+    --color-hero-mid: #0f1a1f;
+    --color-card-placeholder-a: #182428;
+    --color-card-placeholder-b: #1a242a;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    --shadow-hover: 0 8px 32px rgba(0, 0, 0, 0.55);
+}
+
+html { color-scheme: light; }
+html[data-theme="dark"] { color-scheme: dark; }
 
 html { scroll-behavior: smooth; font-size: 16px; }
 
@@ -94,9 +123,10 @@ a:hover { color: var(--color-primary); }
     top: 0; left: 0;
     width: 100%;
     z-index: 1000;
-    background: rgba(245, 249, 249, 0.9);
+    background: var(--color-nav-bg);
     backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--color-border);
+    transition: background var(--transition), border-color var(--transition);
 }
 .nav-inner {
     max-width: 1000px;
@@ -104,9 +134,10 @@ a:hover { color: var(--color-primary); }
     padding: 0 24px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
     height: 64px;
+    gap: 24px;
 }
+.nav-logo { margin-right: auto; }
 .nav-logo {
     font-family: var(--font-pixel);
     font-size: 1.1rem;
@@ -163,6 +194,41 @@ a:hover { color: var(--color-primary); }
     transition: var(--transition);
 }
 
+/* --- Theme toggle --- */
+.nav-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background: transparent;
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    color: var(--color-text);
+    cursor: pointer;
+    padding: 0;
+    transition: border-color var(--transition), color var(--transition), background var(--transition), transform var(--transition);
+}
+.theme-toggle:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    background: rgba(0, 163, 163, 0.06);
+}
+.theme-toggle svg {
+    width: 18px;
+    height: 18px;
+    display: block;
+}
+.theme-toggle .theme-icon-sun { display: none; }
+.theme-toggle .theme-icon-moon { display: block; }
+[data-theme="dark"] .theme-toggle .theme-icon-sun { display: block; }
+[data-theme="dark"] .theme-toggle .theme-icon-moon { display: none; }
+
 /* --- Hero --- */
 .hero {
     position: relative;
@@ -172,7 +238,7 @@ a:hover { color: var(--color-primary); }
     justify-content: center;
     text-align: center;
     overflow: hidden;
-    background: linear-gradient(180deg, var(--color-bg) 0%, #f0f7f7 50%, var(--color-bg-alt) 100%);
+    background: linear-gradient(180deg, var(--color-bg) 0%, var(--color-hero-mid) 50%, var(--color-bg-alt) 100%);
 }
 .hero-pixels {
     position: absolute;
@@ -370,7 +436,7 @@ a:hover { color: var(--color-primary); }
 .app-card-image { aspect-ratio: 16 / 10; overflow: hidden; }
 .app-card-placeholder {
     width: 100%; height: 100%;
-    background: linear-gradient(135deg, #eaf5f5 0%, #f0f5f5 100%);
+    background: linear-gradient(135deg, var(--color-card-placeholder-a) 0%, var(--color-card-placeholder-b) 100%);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -688,7 +754,7 @@ a:hover { color: var(--color-primary); }
         top: 64px; left: 0;
         width: 100%;
         flex-direction: column;
-        background: rgba(245, 249, 249, 0.97);
+        background: var(--color-nav-bg-solid);
         backdrop-filter: blur(12px);
         padding: 24px;
         gap: 18px;
