@@ -4,7 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple ToDo - シンプルだけど、自分仕様にできるToDoアプリ | PIKTAF STUDIO</title>
-    <meta name="description" content="Simple ToDo は、繰り返しタスクの自動リセット、24色カスタムウィジェット、PDF出力に対応したシンプルなAndroid向けToDoアプリ。データはあなたの端末の中だけ。">
+    <meta name="description" content="Simple ToDo は、繰り返しタスクの自動リセット、24色カスタムウィジェット、PDF出力に対応したシンプルなAndroid向けToDoアプリ。データはあなたの端末の中だけ。Google Play から無料ダウンロード。">
+    <link rel="icon" type="image/png" href="assets/icon-128.png">
+    <link rel="apple-touch-icon" href="assets/icon-256.png">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Simple ToDo - シンプルだけど、自分仕様にできるToDoアプリ">
+    <meta property="og:description" content="繰り返しタスクの自動リセット、24色カスタムウィジェット、PDF出力に対応した Android 向けシンプルToDoアプリ。データはあなたの端末の中だけ。">
+    <meta property="og:image" content="https://piktaf-studio.com/simpletodo/assets/icon-512.png">
+    <meta property="og:url" content="https://piktaf-studio.com/simpletodo/">
+    <meta name="twitter:card" content="summary">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,17 +31,47 @@
             text-align: center;
         }
         .app-hero-icon {
-            width: 96px; height: 96px;
-            margin: 0 auto 20px;
-            background: var(--color-primary);
-            border-radius: 24px;
-            display: flex;
+            width: 128px; height: 128px;
+            margin: 0 auto 24px;
+            border-radius: 28px;
+            overflow: hidden;
+            box-shadow: 0 12px 36px rgba(120, 60, 200, 0.18);
+        }
+        .app-hero-icon img {
+            width: 100%; height: 100%;
+            display: block;
+            object-fit: contain;
+        }
+        .play-store-button {
+            display: inline-flex;
             align-items: center;
-            justify-content: center;
-            font-family: var(--font-pixel);
+            gap: 12px;
+            margin-top: 32px;
+            padding: 14px 28px;
+            background: #000;
             color: #fff;
-            font-size: 2.4rem;
-            box-shadow: 0 12px 36px rgba(0, 128, 128, 0.2);
+            border-radius: 999px;
+            font-weight: 500;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            text-decoration: none;
+        }
+        .play-store-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25);
+        }
+        .play-store-button svg {
+            width: 22px; height: 22px;
+            flex-shrink: 0;
+        }
+        .play-store-button .small {
+            font-size: 0.7rem;
+            opacity: 0.85;
+            line-height: 1.1;
+        }
+        .play-store-button .big {
+            font-size: 1.05rem;
+            line-height: 1.1;
         }
         .app-hero h1 {
             font-size: 2.4rem;
@@ -233,7 +271,9 @@
     <section class="app-hero">
         <div class="container">
             <span class="app-status pixel-font">RELEASED</span>
-            <div class="app-hero-icon">ST</div>
+            <div class="app-hero-icon">
+                <img src="assets/icon-256.png" alt="Simple ToDo アプリアイコン" width="128" height="128">
+            </div>
             <h1>Simple ToDo</h1>
             <p class="app-hero-lead">シンプルだけど、自分仕様にできる ToDo アプリ</p>
             <p class="app-hero-tagline">迷わず、続けられる。</p>
@@ -243,6 +283,15 @@
                 <span class="app-badge">日本語 / English</span>
                 <span class="app-badge">13歳以上対象</span>
             </div>
+            <a class="play-store-button" href="https://play.google.com/store/apps/details?id=com.piktaf.simpletodo" target="_blank" rel="noopener">
+                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <path d="M3.609 1.814 13.79 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893 2.302 2.302-10.937 6.333zM15.499 12 5.864 1.95l10.937 6.333zM20.388 10.875c.687.376 1.103 1.103 1.103 1.875s-.416 1.499-1.103 1.875l-2.297 1.324-2.553-2.553 2.553-2.553z"/>
+                </svg>
+                <span>
+                    <span class="small">Google Play で手に入れよう</span><br>
+                    <span class="big">Get it on Google Play</span>
+                </span>
+            </a>
         </div>
     </section>
 
@@ -348,6 +397,29 @@
                     <li>バックアップ先（Google ドライブ等）はあなたが自由に選択できます</li>
                     <li>アカウント登録不要 — 個人情報の取得はありません</li>
                 </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download -->
+    <section class="section section-alt">
+        <div class="container">
+            <div class="section-header">
+                <p class="section-label pixel-font">Download</p>
+                <h2 class="section-title">ダウンロード</h2>
+                <div class="section-line"></div>
+            </div>
+            <div style="text-align: center;">
+                <p style="margin-bottom: 8px; color: var(--color-text);">Google Play から無料でインストールできます。</p>
+                <a class="play-store-button" href="https://play.google.com/store/apps/details?id=com.piktaf.simpletodo" target="_blank" rel="noopener">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path d="M3.609 1.814 13.79 12 3.61 22.186a.996.996 0 0 1-.61-.92V2.734a1 1 0 0 1 .609-.92zm10.89 10.893 2.302 2.302-10.937 6.333zM15.499 12 5.864 1.95l10.937 6.333zM20.388 10.875c.687.376 1.103 1.103 1.103 1.875s-.416 1.499-1.103 1.875l-2.297 1.324-2.553-2.553 2.553-2.553z"/>
+                    </svg>
+                    <span>
+                        <span class="small">Google Play で手に入れよう</span><br>
+                        <span class="big">Get it on Google Play</span>
+                    </span>
+                </a>
             </div>
         </div>
     </section>
