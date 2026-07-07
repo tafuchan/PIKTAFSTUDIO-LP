@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>アカウントとデータの削除 | ドットガチャ | PIKTAF STUDIO</title>
+    <meta name="description" content="PIKTAF STUDIOのアプリ「ドットガチャ」における、アカウント（匿名利用者データ）およびデータの削除方法についてのご案内です。">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@300;400;500;700&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+    <script>
+        (function () {
+            var t = localStorage.getItem('theme');
+            if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            document.documentElement.setAttribute('data-theme', t);
+        })();
+    </script>
+</head>
+<body>
+    <!-- ナビゲーション -->
+    <nav class="nav">
+        <div class="nav-inner">
+            <a href="../index.html" class="nav-logo">PIKTAF<span>STUDIO</span></a>
+            <ul class="nav-links">
+                <li><a href="../index.html#apps">Apps</a></li>
+                <li><a href="../index.html#about">About</a></li>
+                <li><a href="../index.html#contact">Contact</a></li>
+            </ul>
+            <div class="nav-meta">
+                <button class="theme-toggle" type="button" aria-label="テーマ切り替え" aria-pressed="false" title="ダークモードに切り替え">
+                    <svg class="theme-icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                    <svg class="theme-icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><line x1="12" y1="2" x2="12" y2="4"/><line x1="12" y1="20" x2="12" y2="22"/><line x1="4.93" y1="4.93" x2="6.34" y2="6.34"/><line x1="17.66" y1="17.66" x2="19.07" y2="19.07"/><line x1="2" y1="12" x2="4" y2="12"/><line x1="20" y1="12" x2="22" y2="12"/><line x1="4.93" y1="19.07" x2="6.34" y2="17.66"/><line x1="17.66" y1="6.34" x2="19.07" y2="4.93"/></svg>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <main class="legal-main">
+        <div class="legal-container">
+            <div class="legal-header">
+                <p class="legal-label">Account &amp; Data Deletion</p>
+                <h1 class="legal-title">アカウントとデータの削除</h1>
+                <p class="legal-updated">最終改定日: 2026年7月8日</p>
+            </div>
+
+            <div class="legal-card">
+                <p>PIKTAF STUDIO が提供するアプリ「<strong>ドットガチャ</strong>」における、アカウント（匿名の利用者データ）およびデータの削除方法をご案内します。本アプリはアカウント登録が不要で、匿名でご利用いただけます（氏名・メールアドレス等の個人情報は取得していません）。</p>
+
+                <h2>1. アプリ内で削除する（推奨）</h2>
+                <p>アプリ内から、いつでもご自身でデータを削除できます。</p>
+                <ol>
+                    <li>アプリ下部の「<strong>メニュー</strong>」を開く</li>
+                    <li>「<strong>データをリセット</strong>」を選ぶ</li>
+                    <li>確認ダイアログで実行すると、サーバー上のあなたのデータが削除されます</li>
+                </ol>
+
+                <h2>2. メールで削除を依頼する</h2>
+                <p>アプリを利用できない場合（アンインストール後など）は、下記メールアドレスまでご連絡ください。</p>
+                <dl>
+                    <div class="dl-row"><dt>宛先</dt><dd>piktafstudio@gmail.com</dd></div>
+                    <div class="dl-row"><dt>件名</dt><dd>ドットガチャ データ削除依頼</dd></div>
+                    <div class="dl-row"><dt>本文</dt><dd>削除をご希望の旨をお書きください。ご本人確認のため、追加の情報をお伺いする場合があります。</dd></div>
+                </dl>
+                <p>ご依頼を受けてから、原則として <strong>30日以内</strong> に対応します。</p>
+
+                <h2>3. 削除されるデータ</h2>
+                <ul>
+                    <li>匿名の利用者識別子（Firebase 匿名認証のID）</li>
+                    <li>図鑑（獲得したドット絵の所持データ）</li>
+                    <li>コイン・チケットの残高</li>
+                    <li>ミッション・ログインボーナスの進捗</li>
+                    <li>飾り（ボード・小物）の購入・配置データ</li>
+                    <li>その他、本アプリ内で作成されたゲームデータ</li>
+                </ul>
+
+                <h2>4. 削除されず保持されるデータ・保持期間</h2>
+                <p>以下の情報は、削除後も一定期間保持することがあります。</p>
+                <dl>
+                    <div class="dl-row"><dt>アプリ内課金の取引ログ</dt><dd>会計・税務上の要請および不正防止のため、法令に基づき最大 <strong>7年間</strong> 保持することがあります（匿名の取引記録であり、個人を特定しません）。</dd></div>
+                    <div class="dl-row"><dt>サーバーのアクセスログ等</dt><dd>セキュリティ上の必要な範囲で一時的に保持し、合理的な期間内に削除します。</dd></div>
+                </dl>
+                <p>上記を除くゲームデータは、削除のご依頼またはアプリ内の「データをリセット」により消去されます。</p>
+
+                <h2>5. お問い合わせ</h2>
+                <p>本ページの内容や削除依頼に関するご質問は、piktafstudio@gmail.com までご連絡ください。</p>
+            </div>
+
+            <a href="index.html" class="legal-back">&laquo; ドットガチャのページに戻る</a>
+        </div>
+    </main>
+
+    <!-- フッター -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-inner">
+                <div class="footer-logo pixel-font">PIKTAF STUDIO</div>
+                <ul class="footer-links">
+                    <li><a href="privacy.html">プライバシーポリシー</a></li>
+                    <li><a href="delete-account.html">アカウントとデータの削除</a></li>
+                    <li><a href="../index.html#contact">お問い合わせ</a></li>
+                </ul>
+                <p class="footer-copy">&copy; 2026 PIKTAF STUDIO. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>
