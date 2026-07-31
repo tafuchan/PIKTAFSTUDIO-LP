@@ -490,7 +490,7 @@ a:hover { color: var(--color-primary); }
     color: var(--color-text-light);
     margin-bottom: 12px;
 }
-.app-card-tags { display: flex; gap: 8px; }
+.app-card-tags { display: flex; flex-wrap: wrap; gap: 8px; }
 .tag {
     font-family: var(--font-pixel);
     font-size: 0.65rem;
