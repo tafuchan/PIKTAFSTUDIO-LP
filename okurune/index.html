@@ -5,8 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>おくるね - 誕生日とお返しを忘れない贈り物メモ | PIKTAF STUDIO</title>
     <meta name="description" content="おくるねは、誕生日・記念日のリマインドと、いただいた・贈った記録をまとめて残せるiPhone／Androidアプリ。お返しの時期と金額の目安まで教えてくれます。記録はすべて端末とご自身のクラウドの中だけ。">
-    <link rel="icon" type="image/png" href="assets/icon-1024.png">
-    <link rel="apple-touch-icon" href="assets/icon-1024.png">
     <meta property="og:type" content="website">
     <meta property="og:title" content="おくるね - 誕生日とお返しを忘れない贈り物メモ">
     <meta property="og:description" content="誕生日・記念日を先に知らせ、いただいた・贈ったを記録。お返しの時期と金額の目安まで教えてくれます。慶事も弔事も、これ一冊で。">
@@ -14,10 +12,15 @@
     <meta property="og:url" content="https://piktaf-studio.com/okurune/">
     <meta name="twitter:card" content="summary">
     <meta name="theme-color" content="#FC756C">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@300;400;500;700&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap"></noscript>
     <script>
         (function () {
             var t = localStorage.getItem('theme');
@@ -269,7 +272,7 @@
         <div class="container">
             <span class="app-status pixel-font">COMING SOON</span>
             <div class="app-hero-icon">
-                <img src="assets/icon-1024.png" alt="おくるね アプリアイコン" width="128" height="128">
+                <img src="assets/icon-256.png" alt="おくるね アプリアイコン" width="128" height="128" decoding="async">
             </div>
             <h1>おくるね</h1>
             <p class="app-hero-lead">誕生日とお返しを、忘れない。</p>

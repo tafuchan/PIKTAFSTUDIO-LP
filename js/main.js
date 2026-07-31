@@ -41,12 +41,20 @@
 })();
 
 // --- Loader ---
-window.addEventListener('load', () => {
-    const loader = document.getElementById('loader');
-    if (loader) {
-        setTimeout(() => loader.classList.add('hidden'), 600);
+// 画像やWebフォントの読み込み完了(load)を待たず、DOM が組み上がった時点で外す。
+// load 待ち + 待機時間だと、内容が用意できているのに数秒ローディングが残るため。
+(function () {
+    const hide = () => {
+        const loader = document.getElementById('loader');
+        if (loader) loader.classList.add('hidden');
+    };
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', hide, { once: true });
+    } else {
+        hide();
     }
-});
+})();
 
 // --- Mobile Navigation Toggle ---
 (function () {
@@ -92,11 +100,16 @@ window.addEventListener('load', () => {
     const nav = document.querySelector('.nav');
     if (!nav) return;
 
-    window.addEventListener('scroll', () => {
-        if (window.scrollY > 50) {
-            nav.style.boxShadow = '0 2px 12px rgba(0, 128, 128, 0.06)';
-        } else {
-            nav.style.boxShadow = 'none';
+    // スクロールのたびにスタイルを書き換えず、状態が変わったときだけクラスを付け替える
+    let scrolled = null;
+    const sync = () => {
+        const next = window.scrollY > 50;
+        if (next !== scrolled) {
+            scrolled = next;
+            nav.classList.toggle('scrolled', next);
         }
-    });
+    };
+
+    window.addEventListener('scroll', sync, { passive: true });
+    sync();
 })();

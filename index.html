@@ -5,10 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PIKTAF STUDIO - Indie iOS &amp; Android Apps</title>
     <meta name="description" content="PIKTAF STUDIO は、iOS・Androidのアプリをつくっている個人開発スタジオです。Simple ToDo、おくるね、ドットガチャなどのアプリをつくっています。">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@300;400;500;700&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap"></noscript>
     <script>
         (function () {
             var t = localStorage.getItem('theme');
@@ -107,7 +112,7 @@
                     <article class="app-card">
                         <div class="app-card-image">
                             <div class="app-card-placeholder" style="background: linear-gradient(135deg, #FFF0EB 0%, #FFE3E8 100%);">
-                                <img src="okurune/assets/icon-1024.png" alt="おくるね" style="width: 96px; height: 96px; object-fit: contain;">
+                                <img src="okurune/assets/icon-256.png" alt="おくるね" width="96" height="96" loading="lazy" decoding="async" style="width: 96px; height: 96px; object-fit: contain;">
                                 <span>Coming Soon</span>
                             </div>
                         </div>
@@ -152,7 +157,7 @@
                     <article class="app-card">
                         <div class="app-card-image">
                             <div class="app-card-placeholder" style="background: linear-gradient(135deg, #f8f4ff 0%, #e8f4ff 100%);">
-                                <img src="simpletodo/assets/icon-256.png" alt="Simple ToDo" style="width: 96px; height: 96px; object-fit: contain;">
+                                <img src="simpletodo/assets/icon-256.png" alt="Simple ToDo" width="96" height="96" loading="lazy" decoding="async" style="width: 96px; height: 96px; object-fit: contain;">
                                 <span>Released</span>
                             </div>
                         </div>

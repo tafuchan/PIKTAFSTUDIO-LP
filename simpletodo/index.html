@@ -5,18 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple ToDo - シンプルだけど、自分仕様にできるToDoアプリ | PIKTAF STUDIO</title>
     <meta name="description" content="Simple ToDo は、繰り返しタスクの自動リセット、24色カスタムウィジェット、PDF出力に対応したシンプルなAndroid向けToDoアプリ。データはあなたの端末の中だけ。Google Play から無料ダウンロード。">
-    <link rel="icon" type="image/png" href="assets/icon-128.png">
-    <link rel="apple-touch-icon" href="assets/icon-256.png">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Simple ToDo - シンプルだけど、自分仕様にできるToDoアプリ">
     <meta property="og:description" content="繰り返しタスクの自動リセット、24色カスタムウィジェット、PDF出力に対応した Android 向けシンプルToDoアプリ。データはあなたの端末の中だけ。">
     <meta property="og:image" content="https://piktaf-studio.com/simpletodo/assets/icon-512.png">
     <meta property="og:url" content="https://piktaf-studio.com/simpletodo/">
     <meta name="twitter:card" content="summary">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@300;400;500;700&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Zen+Maru+Gothic:wght@400;500;700&family=Silkscreen:wght@400;700&display=swap"></noscript>
     <script>
         (function () {
             var t = localStorage.getItem('theme');
@@ -272,7 +275,7 @@
         <div class="container">
             <span class="app-status pixel-font">RELEASED</span>
             <div class="app-hero-icon">
-                <img src="assets/icon-256.png" alt="Simple ToDo アプリアイコン" width="128" height="128">
+                <img src="assets/icon-256.png" alt="Simple ToDo アプリアイコン" width="128" height="128" decoding="async">
             </div>
             <h1>Simple ToDo</h1>
             <p class="app-hero-lead">シンプルだけど、自分仕様にできる ToDo アプリ</p>
