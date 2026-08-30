@@ -1,11 +1,67 @@
 [
   {
+    "id": "keirou-no-hi-2026",
+    "title": "敬老の日ギフト2026。祖父母が本当に喜ぶものと避けたいもの",
+    "subtitle": "9月21日まで",
+    "url": "https://piktaf-studio.com/okurune/articles/keirou-no-hi.html",
+    "tags": ["scene:birthday", "age:60s", "age:70s", "age:80s"],
+    "priority": 12,
+    "coverColor": "#C0912E",
+    "showFrom": "2026-08-20",
+    "showUntil": "2026-09-21"
+  },
+  {
     "id": "hangaeshi-guide",
     "title": "内祝いの「半返し」いくらが正解？金額とマナーの早見表",
     "subtitle": "定番ガイド",
     "url": "https://piktaf-studio.com/okurune/articles/hangaeshi-guide.html",
-    "tags": ["scene:wedding", "scene:birth", "scene:koden"],
+    "tags": ["scene:wedding", "scene:birth", "scene:koden", "scene:uchiwai", "scene:okaeshi"],
     "priority": 10,
     "coverColor": "#D63E5A"
+  },
+  {
+    "id": "shussan-uchiwai",
+    "title": "出産内祝いの選び方。相場・時期と、外さない定番ギフト8選",
+    "subtitle": "出産内祝い",
+    "url": "https://piktaf-studio.com/okurune/articles/shussan-uchiwai.html",
+    "tags": ["scene:birth", "scene:uchiwai", "scene:okaeshi"],
+    "priority": 9,
+    "coverColor": "#5591C0"
+  },
+  {
+    "id": "koden-gaeshi",
+    "title": "香典返しのマナー。「消えもの」を選ぶ理由と定番の品",
+    "subtitle": "香典返し",
+    "url": "https://piktaf-studio.com/okurune/articles/koden-gaeshi.html",
+    "tags": ["scene:koden", "scene:okaeshi"],
+    "priority": 8,
+    "coverColor": "#5E6980"
+  },
+  {
+    "id": "birthday-women",
+    "title": "女性がもらって嬉しい誕生日プレゼント。年代別・予算別の選び方",
+    "subtitle": "女性向け",
+    "url": "https://piktaf-studio.com/okurune/articles/birthday-women.html",
+    "tags": ["scene:birthday", "gender:female"],
+    "priority": 7,
+    "coverColor": "#E8547E"
+  },
+  {
+    "id": "birthday-men",
+    "title": "男性への誕生日プレゼント。「自分では買わないもの」で選ぶ",
+    "subtitle": "男性向け",
+    "url": "https://piktaf-studio.com/okurune/articles/birthday-men.html",
+    "tags": ["scene:birthday", "gender:male"],
+    "priority": 7,
+    "coverColor": "#47679E"
+  },
+  {
+    "id": "catalog-gift",
+    "title": "カタログギフトの選び方。価格帯の仕組みと失礼にならない使い方",
+    "subtitle": "選び方ガイド",
+    "url": "https://piktaf-studio.com/okurune/articles/catalog-gift.html",
+    "tags": ["scene:uchiwai", "scene:okaeshi", "scene:wedding", "scene:birth", "scene:koden"],
+    "priority": 6,
+    "coverColor": "#8E5BC7"
   }
 ]

@@ -1,0 +1,325 @@
+/* おくるねマガジン（贈り物メディア）共通スタイル
+   アプリ「おくるね」と同じ世界観（Zen Maru Gothic・ローズ×クリーム）で揃える */
+:root {
+    --accent: #D63E5A;
+    --accent-soft: #E8547E;
+    --accent-tint: #FBE3E8;
+    --gold: #C0912E;
+    --gold-tint: #FBF3DC;
+    --bg: #FFF8F5;
+    --card: #FFFFFF;
+    --ink: #3B2B28;
+    --ink2: #8A7570;
+    --ink3: #B5A29C;
+    --line: #EADDD7;
+}
+
+* { box-sizing: border-box; margin: 0; }
+html { scroll-behavior: smooth; }
+body {
+    font-family: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.9;
+    font-size: 15px;
+}
+img { max-width: 100%; }
+a { color: var(--accent); }
+
+/* ---- ヘッダー ---- */
+.mag-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: rgba(255, 248, 245, 0.92);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--line);
+}
+.mag-header-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.mag-logo {
+    font-size: 18px;
+    font-weight: 900;
+    color: var(--ink);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+.mag-logo img { width: 26px; height: 26px; border-radius: 7px; }
+.mag-logo span { color: var(--accent); }
+.mag-nav {
+    margin-left: auto;
+    display: flex;
+    gap: 4px;
+    font-size: 12.5px;
+    font-weight: 700;
+}
+.mag-nav a {
+    color: var(--ink2);
+    text-decoration: none;
+    padding: 6px 10px;
+    border-radius: 999px;
+}
+.mag-nav a:hover { background: var(--accent-tint); color: var(--accent); }
+.mag-nav a.cta {
+    background: var(--accent);
+    color: #fff;
+}
+.mag-nav a.cta:hover { background: var(--accent-soft); color: #fff; }
+
+/* ---- レイアウト ---- */
+.wrap { max-width: 960px; margin: 0 auto; padding: 0 20px 72px; }
+.wrap-narrow { max-width: 680px; margin: 0 auto; padding: 0 20px 72px; }
+
+/* ---- メディアトップ: ヒーロー ---- */
+.mag-hero {
+    background: linear-gradient(135deg, #FF9AB6, #D63E5A);
+    color: #FFF8F5;
+    text-align: center;
+    padding: 44px 20px 40px;
+    margin-bottom: 32px;
+}
+.mag-hero h1 { font-size: 27px; font-weight: 900; line-height: 1.5; }
+.mag-hero p { font-size: 13.5px; margin-top: 8px; opacity: 0.94; }
+
+/* ---- カテゴリチップ ---- */
+.chip-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin: 0 0 28px;
+    padding: 0;
+    list-style: none;
+}
+.chip-row a {
+    display: inline-block;
+    background: var(--card);
+    border: 1px solid var(--line);
+    color: var(--ink2);
+    font-size: 12.5px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 999px;
+    padding: 6px 16px;
+}
+.chip-row a:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ---- セクション見出し ---- */
+.mag-section { margin: 40px 0 16px; }
+.mag-section h2 {
+    font-size: 20px;
+    font-weight: 900;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+}
+.mag-section h2 .en {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 0.12em;
+}
+.mag-section p { font-size: 12.5px; color: var(--ink2); }
+
+/* ---- 記事カード ---- */
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 16px;
+}
+.article-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    overflow: hidden;
+    text-decoration: none;
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.article-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 24px rgba(214, 62, 90, 0.12);
+}
+.article-card .band {
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 34px;
+    color: #FFF8F5;
+}
+.article-card .body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.article-card .cat {
+    align-self: flex-start;
+    font-size: 10.5px;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-tint);
+    border-radius: 999px;
+    padding: 2px 10px;
+}
+.article-card h3 { font-size: 15px; font-weight: 800; line-height: 1.55; }
+.article-card p { font-size: 12px; color: var(--ink2); line-height: 1.7; }
+.article-card .more { margin-top: auto; font-size: 12px; font-weight: 700; color: var(--accent); }
+
+/* ---- 記事ページ ---- */
+.breadcrumb { font-size: 12px; color: var(--ink2); margin: 18px 0 20px; }
+.breadcrumb a { color: var(--accent); text-decoration: none; font-weight: 700; }
+.pr-label {
+    display: inline-block;
+    background: #F3E3D9;
+    color: #8A6620;
+    font-size: 11px;
+    padding: 2px 10px;
+    border-radius: 999px;
+    margin-bottom: 14px;
+}
+article h1 { font-size: 26px; font-weight: 900; line-height: 1.5; margin-bottom: 8px; }
+.article-meta { font-size: 12px; color: var(--ink2); margin-bottom: 26px; }
+article .lead { margin-bottom: 8px; }
+article h2 {
+    font-size: 19px;
+    font-weight: 800;
+    margin: 40px 0 12px;
+    padding-left: 12px;
+    border-left: 4px solid var(--accent);
+    line-height: 1.5;
+}
+article h3 { font-size: 15.5px; font-weight: 800; margin: 24px 0 8px; }
+article p { margin-bottom: 14px; }
+article ul, article ol { margin: 0 0 14px 22px; }
+article li { margin-bottom: 4px; }
+article table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 13.5px;
+}
+article th, article td {
+    border: 1px solid var(--line);
+    padding: 9px 12px;
+    text-align: left;
+    background: var(--card);
+}
+article th { background: #FBEDE7; font-weight: 700; white-space: nowrap; }
+.note {
+    background: var(--gold-tint);
+    border-radius: 12px;
+    padding: 14px 16px;
+    font-size: 13.5px;
+    color: #6E5520;
+    margin: 20px 0;
+}
+
+/* ---- 商品紹介カード ---- */
+.item-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    padding: 16px 18px;
+    margin: 14px 0;
+}
+.item-card .item-head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.item-card h3 { margin: 0; font-size: 15.5px; }
+.item-card .price {
+    font-size: 12px;
+    font-weight: 800;
+    color: var(--accent);
+    background: var(--accent-tint);
+    border-radius: 999px;
+    padding: 2px 10px;
+    white-space: nowrap;
+}
+.item-card .for { font-size: 11.5px; color: var(--ink2); }
+.item-card p { margin: 8px 0 10px; font-size: 13.5px; }
+.item-card .shop-btn {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    font-size: 12.5px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 999px;
+    padding: 7px 18px;
+}
+.item-card .shop-btn:hover { background: var(--accent-soft); }
+.item-card .shop-note { font-size: 10.5px; color: var(--ink3); margin: 6px 0 0; }
+
+/* ---- アプリ訴求 ---- */
+.app-cta {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 22px 20px;
+    margin-top: 44px;
+    text-align: center;
+}
+.app-cta .app-icon { width: 56px; height: 56px; border-radius: 14px; margin-bottom: 8px; }
+.app-cta strong { font-size: 15.5px; }
+.app-cta p { font-size: 13px; color: var(--ink2); margin: 6px 0 12px; }
+.app-cta .btn {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    border-radius: 999px;
+    padding: 10px 26px;
+    font-weight: 700;
+    font-size: 13.5px;
+    text-decoration: none;
+    margin: 0 4px;
+}
+.app-cta .btn.ghost {
+    background: transparent;
+    color: var(--accent);
+    border: 1.5px solid var(--accent);
+}
+
+/* ---- 関連記事 ---- */
+.related { margin-top: 40px; }
+.related h2 { border: none; padding: 0; font-size: 16px; }
+.related ul { list-style: none; margin: 10px 0 0; padding: 0; }
+.related li { margin-bottom: 8px; }
+.related a {
+    display: block;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 10px 14px;
+    font-size: 13.5px;
+    font-weight: 700;
+    color: var(--ink);
+    text-decoration: none;
+}
+.related a:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ---- フッター ---- */
+.mag-footer {
+    border-top: 1px solid var(--line);
+    margin-top: 56px;
+    padding: 24px 20px 40px;
+    text-align: center;
+    font-size: 11.5px;
+    color: var(--ink2);
+}
+.mag-footer a { color: var(--ink2); margin: 0 6px; }
+
+@media (max-width: 560px) {
+    .mag-hero h1 { font-size: 22px; }
+    article h1 { font-size: 22px; }
+    .mag-nav .hide-sp { display: none; }
+}
