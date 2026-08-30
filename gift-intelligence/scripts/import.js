@@ -82,7 +82,7 @@ export function importBatch(db, batch) {
       external_post_id: rawPost.external_post_id || null,
       creator_id: creatorId,
       creator_group_id: groupId,
-      published_at: rawPost.published_at || null,
+      published_at: normalizeDate(rawPost.published_at),
       collected_at: nowIso(),
       title_or_summary: rawPost.title_or_summary || null,
       content_type: rawPost.content_type || defaultContentType(rawPost.platform),
@@ -187,6 +187,15 @@ export function refreshCrossposts(db) {
     }
   }
   return groups.length;
+}
+
+/** "2025/9/29に編集" のような表記ゆれをISO日付へ。解釈できなければnull（推測しない）。 */
+export function normalizeDate(s) {
+  if (!s) return null;
+  if (!isNaN(new Date(s).getTime())) return s;
+  const m = String(s).match(/(\d{4})[/\-年](\d{1,2})[/\-月](\d{1,2})/);
+  if (m) return `${m[1]}-${m[2].padStart(2, '0')}-${m[3].padStart(2, '0')}`;
+  return null;
 }
 
 function defaultContentType(platform) {

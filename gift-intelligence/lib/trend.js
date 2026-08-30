@@ -8,7 +8,9 @@ export function windowCounts(mentionDates, now = Date.now()) {
   let d30 = 0, d90 = 0, prev90 = 0;
   for (const d of mentionDates) {
     if (!d) continue;
-    const age = (now - new Date(d).getTime()) / DAY;
+    const t = new Date(d).getTime();
+    if (isNaN(t)) continue;
+    const age = (now - t) / DAY;
     if (age <= 30) d30++;
     if (age <= 90) d90++;
     else if (age <= 180) prev90++;
