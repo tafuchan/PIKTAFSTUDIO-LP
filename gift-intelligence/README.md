@@ -133,6 +133,28 @@ Gift Score = CreatorDiversity 25% + Recency 20% + PlatformDiversity 15%
 Article Score = EvidenceQuality 25% + 商品候補数 20% + CreatorDiversity 15%
 + Trend 15% + Seasonality 10% + Intent具体性 10% + 既存記事差別化 5%
 
+## 商品画像（楽天APIエンリッチ）
+
+```bash
+# 1回だけ: キーを置く（gitignore済。Codemagic変数グループ「rakuten」と同じ値）
+#   gift-intelligence/.env.local に
+#   RAKUTEN_APP_ID=... / RAKUTEN_ACCESS_KEY=... / RAKUTEN_AFFILIATE_ID=...(任意)
+
+node scripts/enrich-images.js            # 全未取得商品（1.2秒/件）
+node scripts/enrich-images.js --limit 20 # お試し
+```
+
+- 楽天市場 商品検索API（okurune本体と同じ新endpoint・Origin=piktaf-studio.com）で
+  画像URL・購入URL・価格・店舗を `products.metadata.rakuten` に保存し、
+  画像本体を `images/<product_id>.jpg` にローカル保管する（`images/`はgitignore）。
+- **公開サイトで画像を使うときは楽天CDNのURL＋楽天へのリンクをセットで**
+  （規約準拠。media.jsのアフィリエイト書き換えと相性が良い）。ローカルjpgは内部参照用。
+- マッチは保守的: ブランド語一致 × 商品名bigramカバレッジ>=0.7のみ採用。
+  0.5〜0.7は `low_confidence: true` で保存されるので目視レビューして
+  誤マッチは `metadata.rakuten` を消す。SNS投稿の画像は転載しない（§33）。
+- SNSの投稿ビジュアルを見せたい場合はInstagram/TikTok/YouTubeの公式埋め込み
+  （oEmbed）を使う。Lemon8は埋め込み非対応。
+
 ## 毎日のCollection運用
 
 1. Query Rotation（例: 月=彼女/女性、火=男性/彼氏、水=出産祝い、木=結婚祝い、
