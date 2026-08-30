@@ -11203,5 +11203,3898 @@
     "sentiment": "positive",
     "extraction_confidence": 0.85,
     "created_at": "2026-08-30T01:35:32.004Z"
+  },
+  {
+    "id": "m_0424",
+    "post_id": "po_0079",
+    "product_id": "p_0415",
+    "rank_in_post": 1,
+    "observed_price_jpy": 14300,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "夏でも着回しやすい定番ブランドのポロシャツとして、実用性とおしゃれさを両立する一着に紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:29:56.287Z"
+  },
+  {
+    "id": "m_0425",
+    "post_id": "po_0079",
+    "product_id": "p_0416",
+    "rank_in_post": 2,
+    "observed_price_jpy": 17160,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "夏の部屋着として毎日使える上質なルームウェアセットとして推奨されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:29:56.521Z"
+  },
+  {
+    "id": "m_0426",
+    "post_id": "po_0079",
+    "product_id": "p_0417",
+    "rank_in_post": 3,
+    "observed_price_jpy": 4400,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "自分では買わない"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "自分ではあまり買わない香りのアイテムとして、部屋の雰囲気作りに使えるお香セットが挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:56.627Z"
+  },
+  {
+    "id": "m_0427",
+    "post_id": "po_0079",
+    "product_id": "p_0418",
+    "rank_in_post": 4,
+    "observed_price_jpy": 4950,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "夏の水分補給に毎日使える実用的なボトルとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:29:56.697Z"
+  },
+  {
+    "id": "m_0428",
+    "post_id": "po_0079",
+    "product_id": "p_0419",
+    "rank_in_post": 5,
+    "observed_price_jpy": 29415,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "自分では買わない"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "夏のアクティブなレジャーに使えるカメラとして、自分では買わない特別感のあるギフトに位置づけられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:56.719Z"
+  },
+  {
+    "id": "m_0429",
+    "post_id": "po_0079",
+    "product_id": "p_0420",
+    "rank_in_post": 6,
+    "observed_price_jpy": 23232,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "夏の定番アイテムとして、おしゃれ感を演出できるブランドサングラスが選ばれている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:29:56.877Z"
+  },
+  {
+    "id": "m_0430",
+    "post_id": "po_0079",
+    "product_id": "p_0421",
+    "rank_in_post": 7,
+    "observed_price_jpy": 13200,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "夏のレジャーで貴重品を守れる防水仕様の実用アイテムとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:57.289Z"
+  },
+  {
+    "id": "m_0431",
+    "post_id": "po_0079",
+    "product_id": "p_0422",
+    "rank_in_post": 8,
+    "observed_price_jpy": 8980,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "夏コーデのアクセントになるアクセサリーセットとしてまとめられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:58.361Z"
+  },
+  {
+    "id": "m_0432",
+    "post_id": "po_0080",
+    "product_id": "p_0423",
+    "rank_in_post": 1,
+    "observed_price_jpy": 3520,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "アウトドア好きな彼氏に毎日でも使える定番アイテムとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:29:59.158Z"
+  },
+  {
+    "id": "m_0433",
+    "post_id": "po_0080",
+    "product_id": "p_0424",
+    "rank_in_post": 2,
+    "observed_price_jpy": 6820,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "旅行やキャンプの持ち運びに便利なポーチとして挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:29:59.559Z"
+  },
+  {
+    "id": "m_0434",
+    "post_id": "po_0080",
+    "product_id": "p_0425",
+    "rank_in_post": 3,
+    "observed_price_jpy": 9504,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "アウトドアでも普段使いでも活躍する保温ボトルとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:29:59.663Z"
+  },
+  {
+    "id": "m_0435",
+    "post_id": "po_0080",
+    "product_id": "p_0426",
+    "rank_in_post": 4,
+    "observed_price_jpy": 28600,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "自分では買わない"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "自分では買いにくい本格キャンプチェアとして特別感のあるギフトに位置づけられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:59.751Z"
+  },
+  {
+    "id": "m_0436",
+    "post_id": "po_0080",
+    "product_id": "p_0427",
+    "rank_in_post": 5,
+    "observed_price_jpy": 41800,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "自分では買わない"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "本格的にキャンプを始めたい彼氏向けの大型ギフトとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:59.829Z"
+  },
+  {
+    "id": "m_0437",
+    "post_id": "po_0080",
+    "product_id": "p_0428",
+    "rank_in_post": 6,
+    "observed_price_jpy": 6600,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "キャンプの快適さを上げる寝具として実用面で推されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:59.890Z"
+  },
+  {
+    "id": "m_0438",
+    "post_id": "po_0080",
+    "product_id": "p_0429",
+    "rank_in_post": 7,
+    "observed_price_jpy": 4066,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "キャンプでも自宅でも使えるデザイン性の高いランタンとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:59.907Z"
+  },
+  {
+    "id": "m_0439",
+    "post_id": "po_0080",
+    "product_id": "p_0430",
+    "rank_in_post": 8,
+    "observed_price_jpy": 16500,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "コーヒー好きなアウトドア彼氏に向けたこだわりギフトとして挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:59.917Z"
+  },
+  {
+    "id": "m_0440",
+    "post_id": "po_0080",
+    "product_id": "p_0431",
+    "rank_in_post": 9,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "キャンプ飯を楽しめる調理器具として実用ギフトの一つに挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:29:59.946Z"
+  },
+  {
+    "id": "m_0441",
+    "post_id": "po_0080",
+    "product_id": "p_0432",
+    "rank_in_post": 10,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "キャンプの日除け・雨除けとして実用性重視で紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:29:59.962Z"
+  },
+  {
+    "id": "m_0442",
+    "post_id": "po_0081",
+    "product_id": "p_0433",
+    "rank_in_post": 1,
+    "observed_price_jpy": 2807,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "人と被らない",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "写真を入れて名前も刻める、思い出を形にできるパーソナライズギフトとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:59.980Z"
+  },
+  {
+    "id": "m_0443",
+    "post_id": "po_0081",
+    "product_id": "p_0434",
+    "rank_in_post": 2,
+    "observed_price_jpy": 2980,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "毎日目にする時計に写真を入れることで特別感を出せるギフトとして挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:29:59.989Z"
+  },
+  {
+    "id": "m_0444",
+    "post_id": "po_0081",
+    "product_id": "p_0435",
+    "rank_in_post": 3,
+    "observed_price_jpy": 3500,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "仕事でも使える実用アイテムに名入れを加えた贈り物として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.000Z"
+  },
+  {
+    "id": "m_0445",
+    "post_id": "po_0081",
+    "product_id": "p_0436",
+    "rank_in_post": 4,
+    "observed_price_jpy": 18900,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "大切なアイテムを収納できる特別感のあるギフトとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:00.010Z"
+  },
+  {
+    "id": "m_0446",
+    "post_id": "po_0081",
+    "product_id": "p_0437",
+    "rank_in_post": 5,
+    "observed_price_jpy": 2980,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "毎日使えるタンブラーに名前を入れることで特別なギフトになると紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.026Z"
+  },
+  {
+    "id": "m_0447",
+    "post_id": "po_0081",
+    "product_id": "p_0438",
+    "rank_in_post": 6,
+    "observed_price_jpy": 4950,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "お酒好きな相手に向けた記念品性のあるギフトとして挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:00.034Z"
+  },
+  {
+    "id": "m_0448",
+    "post_id": "po_0081",
+    "product_id": "p_0439",
+    "rank_in_post": 7,
+    "observed_price_jpy": 2970,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "読書好きな相手に向けた実用的な名入れギフトとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:00.047Z"
+  },
+  {
+    "id": "m_0449",
+    "post_id": "po_0081",
+    "product_id": "p_0440",
+    "rank_in_post": 8,
+    "observed_price_jpy": 4980,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "アクセサリー派の相手に向けたおしゃれなギフトとして挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:00.073Z"
+  },
+  {
+    "id": "m_0450",
+    "post_id": "po_0082",
+    "product_id": "p_0441",
+    "rank_in_post": 1,
+    "observed_price_jpy": 7981,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "冬に毎日使える上質な防寒アイテムとして、予算1万円以内のクリスマスギフトの筆頭に挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.177Z"
+  },
+  {
+    "id": "m_0451",
+    "post_id": "po_0082",
+    "product_id": "p_0442",
+    "rank_in_post": 2,
+    "observed_price_jpy": 4980,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "個性的なデザインでコーデのアクセントになるアクセサリーとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.326Z"
+  },
+  {
+    "id": "m_0452",
+    "post_id": "po_0082",
+    "product_id": "p_0443",
+    "rank_in_post": 3,
+    "observed_price_jpy": 6600,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "自分では買わない"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "冬の部屋を彩る香りアイテムとして自分では買わない系のギフトに位置づけられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.357Z"
+  },
+  {
+    "id": "m_0453",
+    "post_id": "po_0082",
+    "product_id": "p_0444",
+    "rank_in_post": 4,
+    "observed_price_jpy": 9350,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "高見え"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "冬の防寒と使い勝手を両立するスマホ対応手袋として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.414Z"
+  },
+  {
+    "id": "m_0454",
+    "post_id": "po_0082",
+    "product_id": "p_0445",
+    "rank_in_post": 5,
+    "observed_price_jpy": 9936,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "消耗品"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "クリスマスらしい特別感のある食品ギフトとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.457Z"
+  },
+  {
+    "id": "m_0455",
+    "post_id": "po_0082",
+    "product_id": "p_0446",
+    "rank_in_post": 6,
+    "observed_price_jpy": 8800,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "毎日使う定番の革小物として、失敗しにくいギフトに挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.484Z"
+  },
+  {
+    "id": "m_0456",
+    "post_id": "po_0082",
+    "product_id": "p_0447",
+    "rank_in_post": 7,
+    "observed_price_jpy": 4730,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "自分では買わない"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "香り系アイテムとして持ち運びやすいロールオンタイプが紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.500Z"
+  },
+  {
+    "id": "m_0457",
+    "post_id": "po_0082",
+    "product_id": "p_0448",
+    "rank_in_post": 8,
+    "observed_price_jpy": 9250,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "高見え"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "炎のような揺らめきが楽しめるデザイン性の高いディフューザーとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:00.520Z"
+  },
+  {
+    "id": "m_0458",
+    "post_id": "po_0083",
+    "product_id": "p_0449",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "定番",
+      "おしゃれ"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "王道デザインで失敗しにくい革財布として最初に紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:00.545Z"
+  },
+  {
+    "id": "m_0459",
+    "post_id": "po_0083",
+    "product_id": "p_0450",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "ミニマルなデザインでセンスの良さをアピールできる財布として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:00.573Z"
+  },
+  {
+    "id": "m_0460",
+    "post_id": "po_0083",
+    "product_id": "p_0451",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "ブランド力を重視したい相手に向けて紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.619Z"
+  },
+  {
+    "id": "m_0461",
+    "post_id": "po_0083",
+    "product_id": "p_0452",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "おしゃれ"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "上品さを重視する相手向けの財布として挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.641Z"
+  },
+  {
+    "id": "m_0462",
+    "post_id": "po_0083",
+    "product_id": "p_0453",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "使うほどに味が出る革財布として、長く愛用してほしい相手に向けて紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.650Z"
+  },
+  {
+    "id": "m_0463",
+    "post_id": "po_0084",
+    "product_id": "p_0113",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "自分では買わない"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "普段自分では選ばないルームシューズ系アイテムとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.677Z"
+  },
+  {
+    "id": "m_0464",
+    "post_id": "po_0084",
+    "product_id": "p_0114",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "自分では買わない"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "香りの良いハンドソープとして、自分では買わない系の消耗品ギフトに挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.691Z"
+  },
+  {
+    "id": "m_0465",
+    "post_id": "po_0084",
+    "product_id": "p_0115",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "自分では買わない",
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "普段使いできる香水として自分では買わないギフトの候補に挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.701Z"
+  },
+  {
+    "id": "m_0466",
+    "post_id": "po_0084",
+    "product_id": "p_0454",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "通勤・通学で毎日使える実用的なバッグとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.726Z"
+  },
+  {
+    "id": "m_0467",
+    "post_id": "po_0084",
+    "product_id": "p_0117",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "自分では買わない"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "海外ブランドの歯磨き粉セットとして、自分では買わない系のプチ贅沢品に位置づけられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.849Z"
+  },
+  {
+    "id": "m_0468",
+    "post_id": "po_0084",
+    "product_id": "p_0455",
+    "rank_in_post": 6,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "定番ブランドの小物として失敗しにくいアイテムに挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:00.858Z"
+  },
+  {
+    "id": "m_0469",
+    "post_id": "po_0084",
+    "product_id": "p_0119",
+    "rank_in_post": 7,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "部屋着にも使えるパーカーとして実用的なファッションギフトに挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.012Z"
+  },
+  {
+    "id": "m_0470",
+    "post_id": "po_0085",
+    "product_id": "p_0456",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "記念日",
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "高見え"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "毎日家で使う質感の良いルームシューズとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.105Z"
+  },
+  {
+    "id": "m_0471",
+    "post_id": "po_0085",
+    "product_id": "p_0457",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "記念日",
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "毎日使う小物を少し良いものに変えるアイテムとして挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.127Z"
+  },
+  {
+    "id": "m_0472",
+    "post_id": "po_0085",
+    "product_id": "p_0458",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "記念日",
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "自分では買わない"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "自分ではあまり買わない高級ルームスプレーとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.139Z"
+  },
+  {
+    "id": "m_0473",
+    "post_id": "po_0085",
+    "product_id": "p_0459",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "記念日",
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "センスいい",
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "インテリアとしても映るデザイン性の高いゴミ箱として挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:01.196Z"
+  },
+  {
+    "id": "m_0474",
+    "post_id": "po_0085",
+    "product_id": "p_0167",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "記念日",
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "毎日持ち歩く定番の革小物として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.203Z"
+  },
+  {
+    "id": "m_0475",
+    "post_id": "po_0085",
+    "product_id": "p_0460",
+    "rank_in_post": 6,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "記念日",
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "センスいい"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "質感の良さで選ばれたセンスの光る小物として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:01.209Z"
+  },
+  {
+    "id": "m_0476",
+    "post_id": "po_0085",
+    "product_id": "p_0461",
+    "rank_in_post": 7,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "彼氏"
+    ],
+    "occasion_tags": [
+      "記念日",
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "毎日使えるコインウォレットとして実用性を評価されて紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.217Z"
+  },
+  {
+    "id": "m_0477",
+    "post_id": "po_0086",
+    "product_id": "p_0462",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "定番"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "お酒好きな父親向けの定番の飲み比べギフトとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:01.225Z"
+  },
+  {
+    "id": "m_0478",
+    "post_id": "po_0086",
+    "product_id": "p_0463",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "おしゃれ"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "コーヒー好きの父親に向けたおしゃれな消えものギフトとして挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.243Z"
+  },
+  {
+    "id": "m_0479",
+    "post_id": "po_0086",
+    "product_id": "p_0464",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "毎日履ける定番ブランドの靴下として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.279Z"
+  },
+  {
+    "id": "m_0480",
+    "post_id": "po_0086",
+    "product_id": "p_0465",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "高見え"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "自分では買わない高級ケア用品として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.302Z"
+  },
+  {
+    "id": "m_0481",
+    "post_id": "po_0086",
+    "product_id": "p_0182",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "ブランドロゴ入りの実用的なハンカチとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.315Z"
+  },
+  {
+    "id": "m_0482",
+    "post_id": "po_0086",
+    "product_id": "p_0466",
+    "rank_in_post": 6,
+    "observed_price_jpy": 2420,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "高見え"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "普段使いを少し贅沢にできるヘアケアギフトとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:01.342Z"
+  },
+  {
+    "id": "m_0483",
+    "post_id": "po_0086",
+    "product_id": "p_0467",
+    "rank_in_post": 7,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "毎日使う鍵に添えるさりげない革小物として挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:01.359Z"
+  },
+  {
+    "id": "m_0484",
+    "post_id": "po_0086",
+    "product_id": "p_0468",
+    "rank_in_post": 8,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "もらって嬉しい"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "家飲みを楽しくする家庭用ビールサーバーとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:01.397Z"
+  },
+  {
+    "id": "m_0485",
+    "post_id": "po_0086",
+    "product_id": "p_0469",
+    "rank_in_post": 9,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "定番"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "日本酒好きの父親向けの定番ギフトとして挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:01.473Z"
+  },
+  {
+    "id": "m_0486",
+    "post_id": "po_0086",
+    "product_id": "p_0470",
+    "rank_in_post": 10,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "父"
+    ],
+    "occasion_tags": [
+      "父の日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "もらって嬉しい"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "好みが分からない時に選べるカタログギフトとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:01.540Z"
+  },
+  {
+    "id": "m_0487",
+    "post_id": "po_0087",
+    "product_id": "p_0471",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "消耗品"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "5000円程度で買えるケア製品として、外さないハイブランドギフトの入り口に挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:01.866Z"
+  },
+  {
+    "id": "m_0488",
+    "post_id": "po_0087",
+    "product_id": "p_0176",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "清潔感寄りの香調でハズレにくい香水として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:01.932Z"
+  },
+  {
+    "id": "m_0489",
+    "post_id": "po_0087",
+    "product_id": "p_0472",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "1万円前後の予算で贈れる実用的なハイブランド小物として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:02.129Z"
+  },
+  {
+    "id": "m_0490",
+    "post_id": "po_0087",
+    "product_id": "p_0473",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "毎日使うカードケースをハイブランドで揃える提案として挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:02.198Z"
+  },
+  {
+    "id": "m_0491",
+    "post_id": "po_0087",
+    "product_id": "p_0474",
+    "rank_in_post": 6,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "1万円前後で贈れる実用的な財布として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:02.351Z"
+  },
+  {
+    "id": "m_0492",
+    "post_id": "po_0087",
+    "product_id": "p_0475",
+    "rank_in_post": 7,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "毎日持ち歩く鍵に添えるハイブランドの小物として挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:02.443Z"
+  },
+  {
+    "id": "m_0493",
+    "post_id": "po_0087",
+    "product_id": "p_0476",
+    "rank_in_post": 8,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "男性"
+    ],
+    "occasion_tags": [],
+    "age_tags": [
+      "40代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "40代男性向けの落ち着いた上質アイテムとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:02.664Z"
+  },
+  {
+    "id": "m_0494",
+    "post_id": "po_0088",
+    "product_id": "p_0477",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "普段使いでくたびれてきた財布を新調するタイミングを狙ったギフト提案",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:02.988Z"
+  },
+  {
+    "id": "m_0495",
+    "post_id": "po_0088",
+    "product_id": "p_0478",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "夫が普段使うものをワンランク上げる候補として挙げられている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:03.178Z"
+  },
+  {
+    "id": "m_0496",
+    "post_id": "po_0088",
+    "product_id": "p_0479",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "毎日使うガジェットを買い替える提案として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:03.223Z"
+  },
+  {
+    "id": "m_0497",
+    "post_id": "po_0088",
+    "product_id": "p_0480",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "『肩こる』という口ぐせから直結するアイテムとして紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:03.347Z"
+  },
+  {
+    "id": "m_0498",
+    "post_id": "po_0088",
+    "product_id": "p_0481",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "もらって嬉しい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "モノではなく週末の過ごし方に基づく体験ギフトとして提案されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:03.548Z"
+  },
+  {
+    "id": "m_0499",
+    "post_id": "po_0089",
+    "product_id": "p_0482",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "上司"
+    ],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "職場向けのお返しとして個包装で配りやすいお菓子が推奨されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:03.757Z"
+  },
+  {
+    "id": "m_0500",
+    "post_id": "po_0089",
+    "product_id": "p_0483",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "上司"
+    ],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "日持ちする和菓子として職場向けのお返しに適していると紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:03.805Z"
+  },
+  {
+    "id": "m_0501",
+    "post_id": "po_0089",
+    "product_id": "p_0484",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "上司"
+    ],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "人と被らない"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "レアアイテム感があり喜ばれやすいと紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:03.913Z"
+  },
+  {
+    "id": "m_0502",
+    "post_id": "po_0089",
+    "product_id": "p_0485",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "上司"
+    ],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "日持ちして万人受けする定番の返礼品として紹介されている",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.6,
+    "created_at": "2026-08-30T04:30:04.037Z"
+  },
+  {
+    "id": "m_0503",
+    "post_id": "po_0091",
+    "product_id": "p_0486",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "新婚夫婦が一緒に使える定番かつ質の高いアイテムとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:05.212Z"
+  },
+  {
+    "id": "m_0504",
+    "post_id": "po_0091",
+    "product_id": "p_0487",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "高見え"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "友人への結婚祝い1〜3万円の相場内で失敗しにくい実用ギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:05.308Z"
+  },
+  {
+    "id": "m_0505",
+    "post_id": "po_0091",
+    "product_id": "p_0488",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "おしゃれ"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "新生活で夫婦一緒に使える調理器具として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:05.519Z"
+  },
+  {
+    "id": "m_0506",
+    "post_id": "po_0091",
+    "product_id": "p_0489",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "消耗品"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "定番で失敗しにくいタオルギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:05.557Z"
+  },
+  {
+    "id": "m_0507",
+    "post_id": "po_0091",
+    "product_id": "p_0490",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "人と被らない"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "2万円予算で選ぶ体験型ギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:05.587Z"
+  },
+  {
+    "id": "m_0508",
+    "post_id": "po_0092",
+    "product_id": "p_0491",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達",
+      "女性"
+    ],
+    "occasion_tags": [
+      "新築祝い",
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "高見え"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "フォロワーアンケートで支持された、普段自分では買わない少し良いアイテム",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:05.618Z"
+  },
+  {
+    "id": "m_0509",
+    "post_id": "po_0092",
+    "product_id": "p_0492",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達",
+      "女性"
+    ],
+    "occasion_tags": [
+      "新築祝い",
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "スポイト付き小瓶のルームフレグランスとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:05.641Z"
+  },
+  {
+    "id": "m_0510",
+    "post_id": "po_0092",
+    "product_id": "p_0493",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達",
+      "女性"
+    ],
+    "occasion_tags": [
+      "新築祝い",
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "おしゃれ"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "1万円以内で選べる消耗品ギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:05.894Z"
+  },
+  {
+    "id": "m_0511",
+    "post_id": "po_0092",
+    "product_id": "p_0494",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦",
+      "家族"
+    ],
+    "occasion_tags": [
+      "新築祝い",
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "気を遣わせない消え物ギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:06.089Z"
+  },
+  {
+    "id": "m_0512",
+    "post_id": "po_0092",
+    "product_id": "p_0495",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達",
+      "女性"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "真珠光沢のラウンド形が新居のインテリアに映えると紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:06.199Z"
+  },
+  {
+    "id": "m_0513",
+    "post_id": "po_0092",
+    "product_id": "p_0496",
+    "rank_in_post": 6,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達",
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "新築祝い",
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "気を遣わせない"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "箱入りで贈り物向けの実用タオルとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:06.278Z"
+  },
+  {
+    "id": "m_0514",
+    "post_id": "po_0092",
+    "product_id": "p_0497",
+    "rank_in_post": 7,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦",
+      "女友達"
+    ],
+    "occasion_tags": [
+      "新築祝い",
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "おしゃれ"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "1万円以内で選べる人気キッチン家電として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:06.406Z"
+  },
+  {
+    "id": "m_0515",
+    "post_id": "po_0092",
+    "product_id": "p_0498",
+    "rank_in_post": 8,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達",
+      "家族"
+    ],
+    "occasion_tags": [
+      "新築祝い",
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "個包装で配りやすい定番の消え物ギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:06.558Z"
+  },
+  {
+    "id": "m_0516",
+    "post_id": "po_0093",
+    "product_id": "p_0499",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦",
+      "家族"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "おしゃれ"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "フォロワーアンケートで挙がった新居で使える家電として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:06.635Z"
+  },
+  {
+    "id": "m_0517",
+    "post_id": "po_0093",
+    "product_id": "p_0500",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "夫婦",
+      "家族"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "おしゃれ"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "フォロワーアンケートで挙がった新居で映える食卓アイテムとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:06.660Z"
+  },
+  {
+    "id": "m_0518",
+    "post_id": "po_0094",
+    "product_id": "p_0501",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達"
+    ],
+    "occasion_tags": [
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "紅茶好きな友人の一人暮らしスタートに向けたペア食器として紹介、予算目安3,000〜10,000円",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:06.732Z"
+  },
+  {
+    "id": "m_0519",
+    "post_id": "po_0094",
+    "product_id": "p_0502",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達"
+    ],
+    "occasion_tags": [
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "消耗品"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "「間違いなし」と太鼓判、消え物で贈りやすくインテリアにもなると紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:06.827Z"
+  },
+  {
+    "id": "m_0520",
+    "post_id": "po_0094",
+    "product_id": "p_0503",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達"
+    ],
+    "occasion_tags": [
+      "引っ越し祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "人と被らない",
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "シンプルで被りにくいミニ家電として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:07.111Z"
+  },
+  {
+    "id": "m_0521",
+    "post_id": "po_0095",
+    "product_id": "p_0504",
+    "rank_in_post": 1,
+    "observed_price_jpy": 7380,
+    "recipient_tags": [
+      "夫婦",
+      "女友達"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "人と被らない",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "友達や兄弟がもらって嬉しかったものランキング1位として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.160Z"
+  },
+  {
+    "id": "m_0522",
+    "post_id": "po_0095",
+    "product_id": "p_0505",
+    "rank_in_post": 2,
+    "observed_price_jpy": 4980,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "定番",
+      "実用的"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "ランキング上位の名入れペアタンブラーとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.177Z"
+  },
+  {
+    "id": "m_0523",
+    "post_id": "po_0095",
+    "product_id": "p_0506",
+    "rank_in_post": 3,
+    "observed_price_jpy": 11880,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "ランキング上位の体験型ギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.217Z"
+  },
+  {
+    "id": "m_0524",
+    "post_id": "po_0095",
+    "product_id": "p_0507",
+    "rank_in_post": 4,
+    "observed_price_jpy": 3500,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "定番",
+      "実用的"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "食洗機対応で扱いやすい夫婦箸として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.252Z"
+  },
+  {
+    "id": "m_0525",
+    "post_id": "po_0095",
+    "product_id": "p_0508",
+    "rank_in_post": 5,
+    "observed_price_jpy": 4290,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "布貼箱入りで贈答向けのペアタンブラーとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.312Z"
+  },
+  {
+    "id": "m_0526",
+    "post_id": "po_0096",
+    "product_id": "p_0509",
+    "rank_in_post": 1,
+    "observed_price_jpy": 10399,
+    "recipient_tags": [
+      "家族",
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "高見え"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "友達や兄弟がもらって嬉しいものランキング1位として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.396Z"
+  },
+  {
+    "id": "m_0527",
+    "post_id": "po_0096",
+    "product_id": "p_0510",
+    "rank_in_post": 2,
+    "observed_price_jpy": 3300,
+    "recipient_tags": [
+      "女友達",
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "木箱入りの北欧デザイン小皿セットとして2位に紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.430Z"
+  },
+  {
+    "id": "m_0528",
+    "post_id": "po_0096",
+    "product_id": "p_0504",
+    "rank_in_post": 3,
+    "observed_price_jpy": 7380,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "人と被らない"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "新築祝いランキングでも3位にランクイン",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.519Z"
+  },
+  {
+    "id": "m_0529",
+    "post_id": "po_0096",
+    "product_id": "p_0511",
+    "rank_in_post": 4,
+    "observed_price_jpy": 6600,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "定番",
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "新築祝いの上位商品として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:07.654Z"
+  },
+  {
+    "id": "m_0530",
+    "post_id": "po_0096",
+    "product_id": "p_0512",
+    "rank_in_post": 5,
+    "observed_price_jpy": 4370,
+    "recipient_tags": [
+      "家族"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "気を遣わせない"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "気を遣わせない消え物ギフトとして上位に紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:07.673Z"
+  },
+  {
+    "id": "m_0531",
+    "post_id": "po_0096",
+    "product_id": "p_0513",
+    "rank_in_post": 6,
+    "observed_price_jpy": 7865,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "新築祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "インテリア性の高いアイテムとして上位に紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:07.825Z"
+  },
+  {
+    "id": "m_0532",
+    "post_id": "po_0097",
+    "product_id": "p_0514",
+    "rank_in_post": 1,
+    "observed_price_jpy": 11880,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "気を遣わせない"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "マイベストの結婚祝いおすすめ人気ランキング1位",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:07.961Z"
+  },
+  {
+    "id": "m_0533",
+    "post_id": "po_0097",
+    "product_id": "p_0515",
+    "rank_in_post": 2,
+    "observed_price_jpy": 3999,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "定番",
+      "実用的"
+    ],
+    "budget_tags": [
+      "3000-5000"
+    ],
+    "recommendation_reason": "Amazon掲載の人気ペアタンブラーとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:08.004Z"
+  },
+  {
+    "id": "m_0534",
+    "post_id": "po_0097",
+    "product_id": "p_0516",
+    "rank_in_post": 3,
+    "observed_price_jpy": 8640,
+    "recipient_tags": [
+      "夫婦",
+      "家族"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "気を遣わせない",
+      "実用的"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "好みが分からない相手向けカタログギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:08.101Z"
+  },
+  {
+    "id": "m_0535",
+    "post_id": "po_0097",
+    "product_id": "p_0517",
+    "rank_in_post": 4,
+    "observed_price_jpy": 1829,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "定番",
+      "実用的"
+    ],
+    "budget_tags": [
+      "1000-2000"
+    ],
+    "recommendation_reason": "手頃な価格帯の定番夫婦箸として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:08.189Z"
+  },
+  {
+    "id": "m_0536",
+    "post_id": "po_0097",
+    "product_id": "p_0518",
+    "rank_in_post": 5,
+    "observed_price_jpy": 5980,
+    "recipient_tags": [
+      "夫婦",
+      "女友達"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "おしゃれ",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "インテリアにもなる実用ギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:08.251Z"
+  },
+  {
+    "id": "m_0537",
+    "post_id": "po_0097",
+    "product_id": "p_0519",
+    "rank_in_post": 6,
+    "observed_price_jpy": 6380,
+    "recipient_tags": [
+      "夫婦"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "気を遣わせない"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "人気ブランドのカタログギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.8,
+    "created_at": "2026-08-30T04:30:08.293Z"
+  },
+  {
+    "id": "m_0538",
+    "post_id": "po_0098",
+    "product_id": "p_0520",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女友達"
+    ],
+    "occasion_tags": [
+      "結婚祝い"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "センスいい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "投稿者本人が友人から実際にもらい「もったいなくて使えない」と大切にしていると綴った実体験",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:08.358Z"
+  },
+  {
+    "id": "m_0539",
+    "post_id": "po_0100",
+    "product_id": "p_0521",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "目もと特化のスペシャルケアシート。プロモーション提携ブランドとして紹介、価格別ギフト特集の一品",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:08.593Z"
+  },
+  {
+    "id": "m_0540",
+    "post_id": "po_0100",
+    "product_id": "p_0522",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "目もと特化型美顔器。楽天スーパーセールで20%OFFと紹介されたギフト向けアイテム",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:08.635Z"
+  },
+  {
+    "id": "m_0541",
+    "post_id": "po_0101",
+    "product_id": "p_0523",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "もらって嬉しい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "孫の声などを録音できるフォトフレーム型時計。敬老の日ギフト特集の1位として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:08.793Z"
+  },
+  {
+    "id": "m_0542",
+    "post_id": "po_0101",
+    "product_id": "p_0524",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "メッセージを刻める孫の手。実用性とギフト感を両立する商品として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:08.954Z"
+  },
+  {
+    "id": "m_0543",
+    "post_id": "po_0101",
+    "product_id": "p_0525",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "夫婦で使えるペアタンブラー。縁起の良いデザインとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:09.135Z"
+  },
+  {
+    "id": "m_0544",
+    "post_id": "po_0101",
+    "product_id": "p_0526",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "長寿を願う鶴亀モチーフのプリザーブドフラワー",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:09.188Z"
+  },
+  {
+    "id": "m_0545",
+    "post_id": "po_0101",
+    "product_id": "p_0527",
+    "rank_in_post": 5,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "お酒好きの祖父向けに紹介された小缶ギフト",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:09.265Z"
+  },
+  {
+    "id": "m_0546",
+    "post_id": "po_0101",
+    "product_id": "p_0528",
+    "rank_in_post": 6,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "定番の詰め合わせスイーツギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:09.321Z"
+  },
+  {
+    "id": "m_0547",
+    "post_id": "po_0101",
+    "product_id": "p_0529",
+    "rank_in_post": 7,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "消耗品"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "祖母向けの日焼け対策ハンドセラムとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:09.377Z"
+  },
+  {
+    "id": "m_0548",
+    "post_id": "po_0101",
+    "product_id": "p_0530",
+    "rank_in_post": 8,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "信楽焼の壷入り日本酒。祖父向けの定番ギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:09.393Z"
+  },
+  {
+    "id": "m_0549",
+    "post_id": "po_0101",
+    "product_id": "p_0531",
+    "rank_in_post": 9,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "実用的",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "縁起の良い桜箸。実用的な名入れギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.65,
+    "created_at": "2026-08-30T04:30:09.424Z"
+  },
+  {
+    "id": "m_0550",
+    "post_id": "po_0101",
+    "product_id": "p_0532",
+    "rank_in_post": 10,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "定番"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "富士山モチーフの江戸切子ロックグラス。お酒好きの祖父向けに紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:09.484Z"
+  },
+  {
+    "id": "m_0551",
+    "post_id": "po_0102",
+    "product_id": "p_0533",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "感謝状と風呂敷包み付きのドリップコーヒーとかすてらのセット",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:09.721Z"
+  },
+  {
+    "id": "m_0552",
+    "post_id": "po_0102",
+    "product_id": "p_0534",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "カフェインを抑えたコーヒー茶とバウムクーヘンのセット。高齢者向けに配慮",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:09.787Z"
+  },
+  {
+    "id": "m_0553",
+    "post_id": "po_0102",
+    "product_id": "p_0535",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "コーヒーとコーヒー茶を両方楽しめるセット",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:10.394Z"
+  },
+  {
+    "id": "m_0554",
+    "post_id": "po_0102",
+    "product_id": "p_0536",
+    "rank_in_post": 4,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "祖母",
+      "祖父"
+    ],
+    "occasion_tags": [
+      "敬老の日"
+    ],
+    "age_tags": [
+      "60代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "コスパ"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "大容量のドリップバッグセット。長く楽しめる実用ギフト",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:10.465Z"
+  },
+  {
+    "id": "m_0555",
+    "post_id": "po_0103",
+    "product_id": "p_0537",
+    "rank_in_post": 1,
+    "observed_price_jpy": 2160,
+    "recipient_tags": [],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "気張らずに贈れる御礼・お返し向けクッキー缶として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:10.553Z"
+  },
+  {
+    "id": "m_0556",
+    "post_id": "po_0103",
+    "product_id": "p_0538",
+    "rank_in_post": 2,
+    "observed_price_jpy": 2484,
+    "recipient_tags": [],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "猫デザインの缶入りチョコレート。お返しギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:10.684Z"
+  },
+  {
+    "id": "m_0557",
+    "post_id": "po_0103",
+    "product_id": "p_0539",
+    "rank_in_post": 3,
+    "observed_price_jpy": 1944,
+    "recipient_tags": [],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品"
+    ],
+    "budget_tags": [
+      "1000-2000"
+    ],
+    "recommendation_reason": "鳴門金時を使ったクリームサンド。冷蔵で日持ちする点も紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:10.791Z"
+  },
+  {
+    "id": "m_0558",
+    "post_id": "po_0103",
+    "product_id": "p_0540",
+    "rank_in_post": 4,
+    "observed_price_jpy": 1784,
+    "recipient_tags": [],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "消耗品"
+    ],
+    "budget_tags": [
+      "1000-2000"
+    ],
+    "recommendation_reason": "見た目も華やかなフルーツ羊羹。お返しギフトとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:10.945Z"
+  },
+  {
+    "id": "m_0559",
+    "post_id": "po_0103",
+    "product_id": "p_0541",
+    "rank_in_post": 5,
+    "observed_price_jpy": 1620,
+    "recipient_tags": [],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "消耗品"
+    ],
+    "budget_tags": [
+      "1000-2000"
+    ],
+    "recommendation_reason": "抹茶風味のマドレーヌサンド。手頃な価格帯のお返しとして紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.102Z"
+  },
+  {
+    "id": "m_0560",
+    "post_id": "po_0103",
+    "product_id": "p_0542",
+    "rank_in_post": 6,
+    "observed_price_jpy": 2398,
+    "recipient_tags": [],
+    "occasion_tags": [
+      "お礼"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "消耗品"
+    ],
+    "budget_tags": [
+      "2000-3000"
+    ],
+    "recommendation_reason": "ドイツ菓子専門店のマーガレットケーキ。まとめの一品として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.122Z"
+  },
+  {
+    "id": "m_0561",
+    "post_id": "po_0104",
+    "product_id": "p_0543",
+    "rank_in_post": 1,
+    "observed_price_jpy": 19800,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "高見え",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "数量限定のホリデーコフレ。ギフトにも自分へのご褒美にもぴったりと紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.215Z"
+  },
+  {
+    "id": "m_0562",
+    "post_id": "po_0105",
+    "product_id": "p_0544",
+    "rank_in_post": 1,
+    "observed_price_jpy": 6600,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "高見え"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "数量限定発売のグロウパレット。大人の顔を華やかに彩ると紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.243Z"
+  },
+  {
+    "id": "m_0563",
+    "post_id": "po_0105",
+    "product_id": "p_0545",
+    "rank_in_post": 2,
+    "observed_price_jpy": 37290,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "高見え"
+    ],
+    "budget_tags": [
+      "20000-99999"
+    ],
+    "recommendation_reason": "数量限定の豪華ホリデーキット。中身の充実度が高いと紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.275Z"
+  },
+  {
+    "id": "m_0564",
+    "post_id": "po_0105",
+    "product_id": "p_0546",
+    "rank_in_post": 3,
+    "observed_price_jpy": 11000,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "高見え"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "宝飾ブランドTASAKIとのコラボパレット。数量限定発売",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.307Z"
+  },
+  {
+    "id": "m_0565",
+    "post_id": "po_0105",
+    "product_id": "p_0547",
+    "rank_in_post": 4,
+    "observed_price_jpy": 9900,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "高見え"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "冬限定カラーのアイ＆フェイスコンパクト。数量限定発売",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.340Z"
+  },
+  {
+    "id": "m_0566",
+    "post_id": "po_0105",
+    "product_id": "p_0548",
+    "rank_in_post": 5,
+    "observed_price_jpy": 10890,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "高見え"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "限定パッケージのミニクラッチコレクター。先行発売ありと紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.421Z"
+  },
+  {
+    "id": "m_0567",
+    "post_id": "po_0105",
+    "product_id": "p_0549",
+    "rank_in_post": 6,
+    "observed_price_jpy": 18700,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "毎年人気のメークアップコレクション。数量限定発売",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.501Z"
+  },
+  {
+    "id": "m_0568",
+    "post_id": "po_0105",
+    "product_id": "p_0550",
+    "rank_in_post": 7,
+    "observed_price_jpy": 25300,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "高見え"
+    ],
+    "budget_tags": [
+      "20000-99999"
+    ],
+    "recommendation_reason": "人気クリームに加え化粧水・マスクが付いたホリデー限定コフレ",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.556Z"
+  },
+  {
+    "id": "m_0569",
+    "post_id": "po_0105",
+    "product_id": "p_0551",
+    "rank_in_post": 8,
+    "observed_price_jpy": 16500,
+    "recipient_tags": [
+      "女性"
+    ],
+    "occasion_tags": [
+      "クリスマス"
+    ],
+    "age_tags": [],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "高見え"
+    ],
+    "budget_tags": [
+      "10000-20000"
+    ],
+    "recommendation_reason": "AQシリーズのクレンジングから乳液まで揃うスキンケアコフレ",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.602Z"
+  },
+  {
+    "id": "m_0570",
+    "post_id": "po_0106",
+    "product_id": "p_0552",
+    "rank_in_post": 1,
+    "observed_price_jpy": 5500,
+    "recipient_tags": [
+      "妻",
+      "女友達",
+      "同僚"
+    ],
+    "occasion_tags": [
+      "誕生日"
+    ],
+    "age_tags": [
+      "30代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "高見え",
+      "実用的",
+      "センスいい"
+    ],
+    "budget_tags": [
+      "5000-10000"
+    ],
+    "recommendation_reason": "大人女子向けカタログギフト。5,000〜6,000円は『ちゃんと選んだ感』が出やすい予算帯として紹介",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.85,
+    "created_at": "2026-08-30T04:30:11.760Z"
+  },
+  {
+    "id": "m_0571",
+    "post_id": "po_0111",
+    "product_id": "p_0553",
+    "rank_in_post": 1,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "同僚",
+      "女友達"
+    ],
+    "occasion_tags": [],
+    "age_tags": [
+      "30代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "消耗品",
+      "もらって嬉しい"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "見た目の特別感がある1000円台のミニボディスクラブ、同僚や友達向け",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:12.135Z"
+  },
+  {
+    "id": "m_0572",
+    "post_id": "po_0111",
+    "product_id": "p_0554",
+    "rank_in_post": 2,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "同僚",
+      "女友達"
+    ],
+    "occasion_tags": [],
+    "age_tags": [
+      "30代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "消耗品",
+      "実用的"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "乾燥肌・季節の変わり目向け、テクスチャーが軽くベタつきにくいミニジェルクリーム",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.75,
+    "created_at": "2026-08-30T04:30:12.478Z"
+  },
+  {
+    "id": "m_0573",
+    "post_id": "po_0111",
+    "product_id": "p_0555",
+    "rank_in_post": 3,
+    "observed_price_jpy": null,
+    "recipient_tags": [
+      "同僚",
+      "女友達"
+    ],
+    "occasion_tags": [],
+    "age_tags": [
+      "30代"
+    ],
+    "relationship_tags": [],
+    "style_tags": [
+      "デパコス",
+      "消耗品"
+    ],
+    "budget_tags": [],
+    "recommendation_reason": "美容好き・脂性肌/インナードライ向けの1000円台ミニコスメ",
+    "context_summary": null,
+    "sentiment": "positive",
+    "extraction_confidence": 0.7,
+    "created_at": "2026-08-30T04:30:12.678Z"
   }
 ]

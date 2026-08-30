@@ -144,7 +144,7 @@ export async function enrichAll({ limit = Infinity, dryRun = false, force = fals
   }
   const products = loadTable('products');
   const targets = products.filter((p) => {
-    if (!force && p.metadata?.rakuten) return false;      // 取得済みはスキップ
+    if (!force && (p.metadata?.rakuten || p.metadata?.rakuten_checked_at)) return false; // 取得済み・確認済み(nomatch含む)はスキップ
     if (!p.canonical_brand && normalizeText(p.canonical_name).replace(/ /g, '').length < 5) return false; // 汎用名は誤マッチ源
     return true;
   }).slice(0, limit);

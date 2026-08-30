@@ -130,5 +130,101 @@
     "status": "rejected",
     "created_at": "2026-08-30T01:35:31.980Z",
     "resolved_at": "2026-08-30T01:35:49.044Z"
+  },
+  {
+    "id": "mc_0012",
+    "kind": "product",
+    "left_id": "p_0437",
+    "right_id": "p_0184",
+    "similarity": 0.73,
+    "ai_verdict": "DIFFERENT_PRODUCT",
+    "reason": "名前類似。同一商品/バリアントか要確認",
+    "status": "rejected",
+    "created_at": "2026-08-30T04:30:00.024Z",
+    "resolved_at": "2026-08-30T04:32:16.250Z"
+  },
+  {
+    "id": "mc_0013",
+    "kind": "product",
+    "left_id": "p_0446",
+    "right_id": "p_0167",
+    "similarity": 0.73,
+    "ai_verdict": "DIFFERENT_PRODUCT",
+    "reason": "名前類似。同一商品/バリアントか要確認",
+    "status": "rejected",
+    "created_at": "2026-08-30T04:30:00.483Z",
+    "resolved_at": "2026-08-30T04:32:16.250Z"
+  },
+  {
+    "id": "mc_0014",
+    "kind": "product",
+    "left_id": "p_0455",
+    "right_id": "p_0118",
+    "similarity": 0.78,
+    "ai_verdict": "UNKNOWN",
+    "reason": "名前類似。同一商品/バリアントか要確認",
+    "status": "rejected",
+    "created_at": "2026-08-30T04:30:00.857Z",
+    "resolved_at": "2026-08-30T04:32:16.250Z"
+  },
+  {
+    "id": "mc_0015",
+    "kind": "product",
+    "left_id": "p_0478",
+    "right_id": "p_0477",
+    "similarity": 0.83,
+    "ai_verdict": "DIFFERENT_PRODUCT",
+    "reason": "名前類似。同一商品/バリアントか要確認",
+    "status": "rejected",
+    "created_at": "2026-08-30T04:30:03.174Z",
+    "resolved_at": "2026-08-30T04:32:16.250Z"
+  },
+  {
+    "id": "mc_0016",
+    "kind": "product",
+    "left_id": "p_0479",
+    "right_id": "p_0477",
+    "similarity": 0.8,
+    "ai_verdict": "DIFFERENT_PRODUCT",
+    "reason": "名前類似。同一商品/バリアントか要確認",
+    "status": "rejected",
+    "created_at": "2026-08-30T04:30:03.215Z",
+    "resolved_at": "2026-08-30T04:32:16.250Z"
+  },
+  {
+    "id": "mc_0017",
+    "kind": "product",
+    "left_id": "p_0515",
+    "right_id": "p_0184",
+    "similarity": 0.8,
+    "ai_verdict": "DIFFERENT_PRODUCT",
+    "reason": "名前類似。同一商品/バリアントか要確認",
+    "status": "rejected",
+    "created_at": "2026-08-30T04:30:07.993Z",
+    "resolved_at": "2026-08-30T04:32:16.250Z"
+  },
+  {
+    "id": "mc_0018",
+    "kind": "product",
+    "left_id": "p_0544",
+    "right_id": "p_0324",
+    "similarity": 0.76,
+    "ai_verdict": "VARIANT_OF_PRODUCT",
+    "reason": "名前類似。同一商品/バリアントか要確認",
+    "status": "rejected",
+    "created_at": "2026-08-30T04:30:11.241Z",
+    "resolved_at": "2026-08-30T04:32:16.250Z"
+  },
+  {
+    "id": "mc_0019",
+    "kind": "product",
+    "left_id": "p_0553",
+    "right_id": "p_0318",
+    "similarity": 0.86,
+    "ai_verdict": "VARIANT_OF_PRODUCT",
+    "reason": "名前類似。同一商品/バリアントか要確認",
+    "status": "rejected",
+    "created_at": "2026-08-30T04:30:12.118Z",
+    "resolved_at": "2026-08-30T04:32:16.250Z"
   }
 ]

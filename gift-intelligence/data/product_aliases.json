@@ -97,5 +97,95 @@
     "normalized_alias": "acne studios マフラー",
     "source_platform": "youtube",
     "created_at": "2026-08-30T01:35:31.806Z"
+  },
+  {
+    "id": "al_0010",
+    "product_id": "p_0113",
+    "alias_brand": "FREAK'S STORE",
+    "alias_name": "キルティングモックシューズ",
+    "normalized_alias": "freak s store キルティングモックシューズ",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:00.675Z"
+  },
+  {
+    "id": "al_0011",
+    "product_id": "p_0114",
+    "alias_brand": "APOTHEKE FRAGRANCE",
+    "alias_name": "HAND WASH",
+    "normalized_alias": "apotheke fragrance hand wash",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:00.690Z"
+  },
+  {
+    "id": "al_0012",
+    "product_id": "p_0115",
+    "alias_brand": "imp.",
+    "alias_name": "ウィステリアブロッサム オードパルファム 70mL",
+    "normalized_alias": "imp. ウィステリアブロッサム オードパルファム 70ml",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:00.700Z"
+  },
+  {
+    "id": "al_0013",
+    "product_id": "p_0117",
+    "alias_brand": "Marvis",
+    "alias_name": "ザ・クラシック・マービス・セット",
+    "normalized_alias": "marvis ザ クラシック マービス セット",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:00.812Z"
+  },
+  {
+    "id": "al_0014",
+    "product_id": "p_0119",
+    "alias_brand": "ABAHOUSE",
+    "alias_name": "ワッフル ルーズ プルオーバー パーカー",
+    "normalized_alias": "abahouse ワッフル ルーズ プルオーバー パーカー",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:00.980Z"
+  },
+  {
+    "id": "al_0015",
+    "product_id": "p_0167",
+    "alias_brand": "safuji",
+    "alias_name": "キーケース",
+    "normalized_alias": "safuji キーケース",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:01.203Z"
+  },
+  {
+    "id": "al_0016",
+    "product_id": "p_0182",
+    "alias_brand": "Paul Smith",
+    "alias_name": "ハンカチ",
+    "normalized_alias": "paul smith ハンカチ",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:01.312Z"
+  },
+  {
+    "id": "al_0017",
+    "product_id": "p_0176",
+    "alias_brand": "PRADA",
+    "alias_name": "香水",
+    "normalized_alias": "prada 香水",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:01.925Z"
+  },
+  {
+    "id": "al_0018",
+    "product_id": "p_0176",
+    "alias_brand": "Maison Margiela",
+    "alias_name": "香水",
+    "normalized_alias": "maison margiela 香水",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T04:30:01.986Z"
+  },
+  {
+    "id": "al_0019",
+    "product_id": "p_0504",
+    "alias_brand": "ギフト専門店THE WOW",
+    "alias_name": "名入れラーメンどんぶりペア",
+    "normalized_alias": "ギフト専門店the wow 名入れラーメンどんぶりペア",
+    "source_platform": "web",
+    "created_at": "2026-08-30T04:30:07.489Z"
   }
 ]

@@ -36,8 +36,14 @@ push(`- Crosspost Groups: ${db.crosspost_groups.length} / Merge Review待ち: ${
 push(`- Collection Runs: ${db.collection_runs.length}`);
 push();
 
-// TOP10
-const all = db.gift_scores.filter((s) => s.context_key === ALL_CONTEXT).sort((a, b) => b.gift_score - a.gift_score);
+// TOP10（ブランド不明×汎用名の商品はランキングから除外: 「香水」「マフラー」等）
+const isGeneric = (id) => {
+  const p = db.products.find((x) => x.id === id);
+  return p && !p.canonical_brand && (p.canonical_name || '').length < 6;
+};
+const all = db.gift_scores
+  .filter((s) => s.context_key === ALL_CONTEXT && !isGeneric(s.product_id))
+  .sort((a, b) => b.gift_score - a.gift_score);
 push(`## よく登場した商品 TOP10（Gift Score / all context）`);
 push(`| # | 商品 | GiftScore | 独立推薦 | Creator群 | 媒体数 | Trend |`);
 push(`|---|---|---|---|---|---|---|`);
