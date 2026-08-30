@@ -68,6 +68,17 @@ function scaledImage(url) {
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/** 検索キーワード用の商品名整形: 括弧内の別名・英名を除去し、API非対応文字を潰す */
+function searchName(name) {
+  return String(name)
+    .replace(/（[^）]*）|\([^)]*\)/g, ' ')
+    .replace(/[&＆/／|]/g, ' ')
+    .split(/\s+/)
+    .filter((t) => t.length >= 2) // 楽天APIは1文字トークンを弾く（wrong_parameter）
+    .join(' ')
+    .trim();
+}
+
 async function searchRakuten(env, keyword) {
   const q = new URLSearchParams({
     applicationId: env.RAKUTEN_APP_ID,
@@ -95,7 +106,7 @@ function pickBest(product, items) {
   for (const it of items) {
     const title = it.itemName || '';
     if (!brandInTitle(product.canonical_brand, title)) continue;
-    let cov = coverage(product.canonical_name, title);
+    let cov = coverage(searchName(product.canonical_name), title);
     // 価格サニティ: 観測価格帯から大きく外れる候補は減点（福袋・まとめ売り対策）
     if (product.price_min_jpy && it.itemPrice) {
       const ratio = it.itemPrice / product.price_min_jpy;
@@ -143,7 +154,8 @@ export async function enrichAll({ limit = Infinity, dryRun = false, force = fals
   let processed = 0;
 
   for (const p of targets) {
-    const keyword = [p.canonical_brand, p.canonical_name].filter(Boolean).join(' ');
+    const keyword = searchName([p.canonical_brand, p.canonical_name].filter(Boolean).join(' '));
+    if (!keyword) { stats.nomatch++; continue; }
     try {
       const items = await searchRakuten(env, keyword);
       const best = pickBest(p, items);
@@ -168,7 +180,8 @@ export async function enrichAll({ limit = Infinity, dryRun = false, force = fals
           },
         };
         if (!p.purchase_url && it.itemUrl) p.purchase_url = it.itemUrl;
-        if (p.price_min_jpy == null && it.itemPrice) { p.price_min_jpy = it.itemPrice; p.price_max_jpy = it.itemPrice; }
+        // 価格はマーケットプレイス転売値の可能性があるためprice_min/maxへは反映しない
+        // （metadata.rakuten.item_priceに参考値として残る）
         if (p.status === 'unknown') p.status = 'active'; // 楽天で現在販売中
         best.low_confidence ? stats.low++ : stats.matched++;
         if (!dryRun && imageUrl) {
