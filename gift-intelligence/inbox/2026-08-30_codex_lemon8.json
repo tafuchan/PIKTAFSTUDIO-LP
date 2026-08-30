@@ -1,0 +1,401 @@
+{
+  "run": {
+    "collection_mode": "discovery",
+    "platform": "lemon8",
+    "query": "クリスマス/母/手土産/1万円/デパコス",
+    "status": "done",
+    "notes": "Web検索結果で個別投稿URL、本文または検索説明、具体的な商品名を確認できた投稿のみを収録。Lemon8のexperience/discover集約ページと指定済み除外URLは不採用。価格は投稿または検索結果に明記された商品のみ、metricsは表示された保存数のみを記録。検索結果で保存数を確認できなかった投稿はmetricsを空オブジェクトとした。"
+  },
+  "posts": [
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/kotaro_setsuyaku/7176970508959760901?region=us",
+      "creator_handle": "kotaro_setsuyaku",
+      "creator_name": "こたろう|節約・貯金生活💰",
+      "creator_followers": null,
+      "published_at": "2022-12-14",
+      "title_or_summary": "予算5,000円で彼女や女友達に贈るクリスマスギフト16選",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com/ 「クリスマスプレゼント」 「彼女」 CHANEL OR Dior OR Aesop",
+      "metrics": {},
+      "items": [
+        {
+          "brand": "JO MALONE",
+          "name": "English Pear & Freesia Body Crème 50ml",
+          "observed_price_jpy": null,
+          "rank_in_post": 1,
+          "recipient_tags": ["彼女", "女友達"],
+          "occasion_tags": ["クリスマス"],
+          "age_tags": [],
+          "budget_tags": ["3000-5000"],
+          "style_tags": ["デパコス", "香り"],
+          "recommendation_reason": "香りと見栄えのよいボディケアで、クリスマスらしい特別感を出しやすい。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.88
+        },
+        {
+          "brand": "Aesop",
+          "name": "Andrum Aromatic Hand Balm 75ml",
+          "observed_price_jpy": null,
+          "rank_in_post": 4,
+          "recipient_tags": ["彼女", "女友達"],
+          "occasion_tags": ["クリスマス"],
+          "age_tags": [],
+          "budget_tags": ["3000-5000"],
+          "style_tags": ["ハンドケア", "香り"],
+          "recommendation_reason": "日常で使えるハンドケアで、乾燥するクリスマス時期にも実用的。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.9
+        },
+        {
+          "brand": "LOEWE",
+          "name": "001 Woman Eau de Parfum Small Bottle 15ml",
+          "observed_price_jpy": null,
+          "rank_in_post": 8,
+          "recipient_tags": ["彼女", "女友達"],
+          "occasion_tags": ["クリスマス"],
+          "age_tags": [],
+          "budget_tags": ["3000-5000"],
+          "style_tags": ["香水", "ブランド"],
+          "recommendation_reason": "小容量ながらブランド感があり、印象に残る香りのギフトとして紹介されている。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.88
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/milkmagazine/7189607784345108998?region=jp",
+      "creator_handle": "milkmagazine",
+      "creator_name": "milkmagazine",
+      "creator_followers": null,
+      "published_at": "2023-01-17",
+      "title_or_summary": "親友に贈る1万円以内の誕生日プレゼント8選",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com 「10000円 プレゼント」 ギフト 商品",
+      "metrics": {
+        "saves": 1258
+      },
+      "items": [
+        {
+          "brand": "CHANEL",
+          "name": "ラ クレーム マン",
+          "observed_price_jpy": null,
+          "rank_in_post": 1,
+          "recipient_tags": ["女友達", "女性"],
+          "occasion_tags": ["誕生日"],
+          "age_tags": [],
+          "budget_tags": ["5000-10000"],
+          "style_tags": ["デパコス", "ハンドケア"],
+          "recommendation_reason": "香りが強すぎずべたつきにくいため、学校や職場でも使いやすい特別感のある消耗品。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.94
+        },
+        {
+          "brand": "Dior",
+          "name": "ディオール アディクト リップ マキシマイザー",
+          "observed_price_jpy": null,
+          "rank_in_post": 3,
+          "recipient_tags": ["女友達", "女性"],
+          "occasion_tags": ["誕生日"],
+          "age_tags": [],
+          "budget_tags": ["5000-10000"],
+          "style_tags": ["デパコス", "コスメ"],
+          "recommendation_reason": "定番の華やかさがあり、落ち着いた色なら手持ちとの重複も避けやすい。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.94
+        },
+        {
+          "brand": "JO MALONE",
+          "name": "ボディ＆ハンド ウォッシュ",
+          "observed_price_jpy": null,
+          "rank_in_post": 8,
+          "recipient_tags": ["女友達", "女性"],
+          "occasion_tags": ["誕生日"],
+          "age_tags": [],
+          "budget_tags": ["5000-10000"],
+          "style_tags": ["ボディケア", "香り"],
+          "recommendation_reason": "毎日使う日用品を格上げでき、就職や引越し後の友人にも贈りやすい。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.92
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/%40hama_kiri/7630044011448893960?region=jp",
+      "creator_handle": "hama_kiri",
+      "creator_name": "スイーツマニア お取り寄せ＆コンビニスイツ",
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "母の日や手土産向けの花・フルーツデザインスイーツ9選",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com 「母 プレゼント」 ギフト 商品",
+      "metrics": {},
+      "items": [
+        {
+          "brand": "花えちぜん",
+          "name": "ハートの苺プレミアムバウムクーヘン",
+          "observed_price_jpy": 3380,
+          "rank_in_post": 1,
+          "recipient_tags": ["母", "女性"],
+          "occasion_tags": ["母の日", "手土産"],
+          "age_tags": [],
+          "budget_tags": ["3000-5000"],
+          "style_tags": ["スイーツ", "華やか"],
+          "recommendation_reason": "苺のハート形と上品なコーティングで、箱を開けた瞬間の特別感を作れる。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.98
+        },
+        {
+          "brand": "ランジェラ",
+          "name": "バラのマドレーヌの花束 ベルレーヌブーケピンク",
+          "observed_price_jpy": 4881,
+          "rank_in_post": 2,
+          "recipient_tags": ["母", "女性"],
+          "occasion_tags": ["母の日", "手土産"],
+          "age_tags": [],
+          "budget_tags": ["3000-5000"],
+          "style_tags": ["スイーツ", "花モチーフ"],
+          "recommendation_reason": "花束のような外観と複数フレーバーが、母の日の華やかな贈り物に向く。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.98
+        },
+        {
+          "brand": "サブレミシェル",
+          "name": "ケーキサブレ缶S",
+          "observed_price_jpy": 3456,
+          "rank_in_post": 3,
+          "recipient_tags": ["母", "女性"],
+          "occasion_tags": ["母の日", "手土産"],
+          "age_tags": [],
+          "budget_tags": ["3000-5000"],
+          "style_tags": ["スイーツ", "缶ギフト"],
+          "recommendation_reason": "ケーキを思わせる見栄えのよいサブレ缶で、手土産にも母の日にも使いやすい。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.97
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/%40userxmt1sgf0bg/7447099827890536966?region=jp",
+      "creator_handle": "userxmt1sgf0bg",
+      "creator_name": "@userxmt1sgf0bg",
+      "creator_followers": null,
+      "published_at": "2024-12-11",
+      "title_or_summary": "お礼に渡しやすい西光亭の『ありがとう』リスクッキー",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com/ 「退職 お礼 ギフト」 商品 保存",
+      "metrics": {
+        "saves": 42
+      },
+      "items": [
+        {
+          "brand": "西光亭",
+          "name": "『ありがとう』リスクッキー",
+          "observed_price_jpy": null,
+          "rank_in_post": 1,
+          "recipient_tags": ["同僚", "上司", "女友達"],
+          "occasion_tags": ["お礼"],
+          "age_tags": [],
+          "budget_tags": [],
+          "style_tags": ["スイーツ", "メッセージギフト"],
+          "recommendation_reason": "箱のメッセージとリスの絵で感謝が伝わり、異動や退職の挨拶にも重すぎない。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.96
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/%40userfuf02giue2/7301568723440189957?region=jp",
+      "creator_handle": "userfuf02giue2",
+      "creator_name": "アトリエSAYURI",
+      "creator_followers": null,
+      "published_at": "2023-11-15",
+      "title_or_summary": "『祝御退職』などのメッセージを入れた退職祝い用オーダークッキー",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com \"退職\" \"お礼\" \"ギフト\" \"人が保存しました\" -experience",
+      "metrics": {
+        "saves": 7
+      },
+      "items": [
+        {
+          "brand": "レトワブール（Les3boules）",
+          "name": "退職記念オーダーアイシングクッキー",
+          "observed_price_jpy": null,
+          "rank_in_post": 1,
+          "recipient_tags": ["同僚", "上司"],
+          "occasion_tags": ["退職祝い", "お礼"],
+          "age_tags": [],
+          "budget_tags": [],
+          "style_tags": ["スイーツ", "オーダー", "メッセージギフト"],
+          "recommendation_reason": "『祝御退職』などの文字で気持ちを直接表せ、送別の場を温かく演出できる。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.96
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/%40hima_na_onna/7560153858131935755?region=jp",
+      "creator_handle": "hima_na_onna",
+      "creator_name": "週末OL 麺子｜ちょっと大食いの日常",
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "六本木ヒルズで選んだニュウスタイル銀座千疋屋の手土産",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com \"手土産\" \"人が保存しました\" \"価格:\" -experience",
+      "metrics": {
+        "saves": 11
+      },
+      "items": [
+        {
+          "brand": "ニュウスタイル銀座千疋屋",
+          "name": "銀座アップルクーヘン",
+          "observed_price_jpy": null,
+          "rank_in_post": 1,
+          "recipient_tags": ["女性", "同僚"],
+          "occasion_tags": ["手土産"],
+          "age_tags": [],
+          "budget_tags": [],
+          "style_tags": ["スイーツ", "おしゃれ"],
+          "recommendation_reason": "丸い見た目と中のりんごが印象的で、千疋屋ブランドの安心感もある手土産。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.97
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/%40karen_gift1226/7589784866565407244?region=jp",
+      "creator_handle": "karen_gift1226",
+      "creator_name": "かれん｜頑張る自分へのご褒美gift💝",
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "個包装で上品なButtersのクラフトバターケーキを手土産に推薦",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com \"退職\" \"お礼\" \"ギフト\" \"人が保存しました\" -experience",
+      "metrics": {
+        "saves": 263
+      },
+      "items": [
+        {
+          "brand": "Butters",
+          "name": "クラフトバターケーキ 5P",
+          "observed_price_jpy": 1512,
+          "rank_in_post": 1,
+          "recipient_tags": ["同僚", "上司", "女性", "男性"],
+          "occasion_tags": ["手土産", "お礼"],
+          "age_tags": [],
+          "budget_tags": ["1000-2000"],
+          "style_tags": ["スイーツ", "個包装", "おしゃれ"],
+          "recommendation_reason": "甘すぎない三層のバター菓子で、個包装と洗練された箱が職場への手土産に扱いやすい。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.99
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/%40user8033515360786/7661969697813824001?region=jp",
+      "creator_handle": "user8033515360786",
+      "creator_name": "@user8033515360786",
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "定番手土産として薦める資生堂パーラーの花椿ビスケット",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com \"手土産\" \"人が保存しました\" \"価格:\" -experience",
+      "metrics": {
+        "saves": 27
+      },
+      "items": [
+        {
+          "brand": "資生堂パーラー",
+          "name": "花椿ビスケット 24枚入り",
+          "observed_price_jpy": 2700,
+          "rank_in_post": 1,
+          "recipient_tags": ["女性", "同僚", "上司"],
+          "occasion_tags": ["手土産", "お礼"],
+          "age_tags": [],
+          "budget_tags": ["2000-3000"],
+          "style_tags": ["スイーツ", "缶ギフト"],
+          "recommendation_reason": "懐かしい味と季節で変わる缶が話題になりやすく、年代を問わず渡しやすい定番。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.99
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/%40masakiarashimikiko/7246773067211506182?region=jp",
+      "creator_handle": "masakiarashimikiko",
+      "creator_name": "@masakiarashimikiko",
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "外国の都市を描いた缶がかわいいサブレミシェルの手土産",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com 「手土産 おしゃれ」 ギフト 商品",
+      "metrics": {
+        "saves": 1
+      },
+      "items": [
+        {
+          "brand": "サブレミシェル",
+          "name": "ヴォヤージュサブレ",
+          "observed_price_jpy": 1383,
+          "rank_in_post": 1,
+          "recipient_tags": ["女性", "女友達", "同僚"],
+          "occasion_tags": ["手土産"],
+          "age_tags": [],
+          "budget_tags": ["1000-2000"],
+          "style_tags": ["スイーツ", "缶ギフト", "おしゃれ"],
+          "recommendation_reason": "都市ごとの意匠とカラフルな中身が写真映えし、価格以上のギフト感を出しやすい。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.99
+        }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/%40mayu9080/7502771764469334533?region=jp",
+      "creator_handle": "mayu9080",
+      "creator_name": "まゆぼん",
+      "creator_followers": null,
+      "published_at": "2025-05-11",
+      "title_or_summary": "施設の母へ持参した3日間限定の母の日ぴよりん",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "site:lemon8-app.com \"母の日\" \"人が保存しました\" \"価格:\" -experience",
+      "metrics": {
+        "saves": 4
+      },
+      "items": [
+        {
+          "brand": "ぴよりんshop",
+          "name": "母の日ぴよりん（いちご）",
+          "observed_price_jpy": 550,
+          "rank_in_post": 1,
+          "recipient_tags": ["母"],
+          "occasion_tags": ["母の日", "手土産"],
+          "age_tags": [],
+          "budget_tags": [],
+          "style_tags": ["スイーツ", "限定", "かわいい"],
+          "recommendation_reason": "母の日メッセージ付きのピンク色の限定品で、母と一緒に楽しめる親しみやすい手土産。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.99
+        }
+      ]
+    }
+  ]
+}

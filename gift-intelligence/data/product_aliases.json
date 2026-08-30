@@ -1,0 +1,101 @@
+[
+  {
+    "id": "al_0001",
+    "product_id": "p_0014",
+    "alias_brand": "CHANEL",
+    "alias_name": "ミロワール ドゥーブル ファセット コンパクトミラー",
+    "normalized_alias": "chanel ミロワール ドゥーブル ファセット コンパクトミラー",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T01:15:36.494Z"
+  },
+  {
+    "id": "al_0002",
+    "product_id": "p_0035",
+    "alias_brand": "DIOR",
+    "alias_name": "ミス ディオール ハンド クリーム",
+    "normalized_alias": "dior ミス ディオール ハンド クリーム",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T01:15:36.519Z"
+  },
+  {
+    "id": "al_0003",
+    "product_id": "p_0062",
+    "alias_brand": null,
+    "alias_name": "ハンドクリーム",
+    "normalized_alias": "ハンドクリーム",
+    "source_platform": "lemon8",
+    "created_at": "2026-08-30T01:15:36.911Z"
+  },
+  {
+    "id": "al_0004",
+    "product_id": "p_0185",
+    "alias_brand": "Swarovski",
+    "alias_name": "アクセサリー",
+    "normalized_alias": "swarovski アクセサリー",
+    "source_platform": "instagram",
+    "created_at": "2026-08-30T01:15:37.062Z"
+  },
+  {
+    "id": "al_0005",
+    "product_id": "p_0176",
+    "alias_brand": "Her lip to",
+    "alias_name": "香水",
+    "normalized_alias": "her lip to 香水",
+    "source_platform": "instagram",
+    "created_at": "2026-08-30T01:15:37.065Z"
+  },
+  {
+    "id": "al_0006",
+    "product_id": "p_0062",
+    "alias_brand": "PRADA",
+    "alias_name": "ハンドクリーム",
+    "normalized_alias": "prada ハンドクリーム",
+    "source_platform": "threads",
+    "created_at": "2026-08-30T01:15:37.091Z"
+  },
+  {
+    "id": "al_m_p_0033",
+    "product_id": "p_0039",
+    "alias_brand": "LOEWE",
+    "alias_name": "001 ウーマン オードゥ パルファン 15ml",
+    "normalized_alias": "loewe 001 ウーマン オードゥ パルファン 15ml",
+    "source_platform": null,
+    "created_at": "2026-08-30T01:16:12.309Z"
+  },
+  {
+    "id": "al_m_p_0052",
+    "product_id": "p_0104",
+    "alias_brand": null,
+    "alias_name": "金魚鉢アロマキャンドル",
+    "normalized_alias": "金魚鉢アロマキャンドル",
+    "source_platform": null,
+    "created_at": "2026-08-30T01:16:12.309Z"
+  },
+  {
+    "id": "al_0007",
+    "product_id": "p_0013",
+    "alias_brand": "SHIRO",
+    "alias_name": "ファブリックソフナー",
+    "normalized_alias": "shiro ファブリックソフナー",
+    "source_platform": "youtube",
+    "created_at": "2026-08-30T01:35:31.545Z"
+  },
+  {
+    "id": "al_0008",
+    "product_id": "p_0002",
+    "alias_brand": "IPSA",
+    "alias_name": "ザ・タイムR アクア",
+    "normalized_alias": "ipsa ザ タイムr アクア",
+    "source_platform": "youtube",
+    "created_at": "2026-08-30T01:35:31.606Z"
+  },
+  {
+    "id": "al_0009",
+    "product_id": "p_0177",
+    "alias_brand": "Acne Studios",
+    "alias_name": "マフラー",
+    "normalized_alias": "acne studios マフラー",
+    "source_platform": "youtube",
+    "created_at": "2026-08-30T01:35:31.806Z"
+  }
+]

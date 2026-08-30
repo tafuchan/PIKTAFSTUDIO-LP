@@ -1,0 +1,145 @@
+{
+  "run": {
+    "collection_mode": "discovery",
+    "platform": "lemon8",
+    "query": "関連投稿グラフ巡回（Claudeブラウザ直接収集）",
+    "status": "done",
+    "notes": "Lemon8のWeb検索面はSEOページに誘導され使えないため、投稿ページの関連投稿欄を巡回。全件ブラウザで本文・指標・編集日を直接確認。mameko068の投稿は商品名がカテゴリのみのため除外。em_gift_presentはInstagram/TikTokにem__giftとして同一人物運用をプロフィールで明言（creator group根拠）。"
+  },
+  "posts": [
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@giftboy_present/7187679083310924294",
+      "creator_handle": "giftboy_present",
+      "creator_name": "Gift boy ギフト選び",
+      "creator_followers": 12000,
+      "published_at": "2023-01-12",
+      "title_or_summary": "【友達に贈りたい】5,000円予算の女子ギフト5選",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "関連投稿巡回",
+      "metrics": { "likes": 2785, "saves": 3576, "comments": 18 },
+      "items": [
+        { "brand": "Dior", "name": "ミス ディオール ヘアミスト", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "自分では買わない"], "recommendation_reason": "香水より軽く学校・職場でも使いやすい。リボン付きボトルで特別感と紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "LOEWE", "name": "001 ウーマン オードゥ パルファン 小瓶", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え"], "recommendation_reason": "ハイブランド香水の小瓶を予算内ギフトとして紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "SNIDEL HOME", "name": "バリエジャカードバスタオル", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的", "おしゃれ"], "recommendation_reason": "女子ウケする実用タオルとして紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "CHANEL", "name": "ユイル ア オングル ネイルオイル", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "高見え"], "recommendation_reason": "CHANELのネイルケアを手頃な価格帯ギフトとして紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "APLO.", "name": "パールロングピアス gold", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "華奢パールピアスのゴールド版として紹介", "sentiment": "positive", "extraction_confidence": 0.9 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@giftboy_present/7176642902699885062",
+      "creator_handle": "giftboy_present",
+      "creator_name": "Gift boy ギフト選び",
+      "creator_followers": 12000,
+      "published_at": null,
+      "title_or_summary": "【女友達に贈りたい】5000円予算の最強ギフト 5選",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "関連投稿巡回",
+      "metrics": { "likes": 46 },
+      "items": [
+        { "brand": "JILL STUART", "name": "ヘアブラシ", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "クリスマス"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "見た目が可愛い実用ブラシとして紹介", "sentiment": "positive", "extraction_confidence": 0.85 },
+        { "brand": "CHANEL", "name": "ヴェルニ ロング トゥニュ", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "クリスマス"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス"], "recommendation_reason": "CHANELのネイルカラーとして紹介", "sentiment": "positive", "extraction_confidence": 0.85 },
+        { "brand": "DIOR", "name": "ミス ディオール ハンド クリーム", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "クリスマス"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "消耗品"], "recommendation_reason": "デパコスハンドクリーム定番として紹介", "sentiment": "positive", "extraction_confidence": 0.85 },
+        { "brand": "clé de peau Beauté", "name": "マニフィカトゥール レーブル", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "クリスマス"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "高見え"], "recommendation_reason": "ハイエンドブランドのリップケアとして紹介", "sentiment": "positive", "extraction_confidence": 0.8 },
+        { "brand": "APLO.", "name": "マンテルチェーンブレスレット", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "クリスマス"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "チェーンブレスレットとして紹介", "sentiment": "positive", "extraction_confidence": 0.85 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@namih492/7582926270002987532",
+      "creator_handle": "namih492",
+      "creator_name": "にこまま：読書記録&まちがい探し",
+      "creator_followers": 103,
+      "published_at": "2025-12-12",
+      "title_or_summary": "【予算5000円】大切な人に贈りたいご褒美ギフト５選（クリスマス）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "関連投稿巡回",
+      "metrics": { "likes": 7, "saves": 6, "comments": 2 },
+      "items": [
+        { "brand": "SHIRO", "name": "フレグランスディフューザー", "observed_price_jpy": 4510, "rank_in_post": 1, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["クリスマス", "結婚祝い", "新築祝い"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ", "もらって嬉しい"], "recommendation_reason": "「高級ホテルの香り」と口コミ評判のルームディフューザー。結婚祝い・新築祝いにも人気と紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "AYURA", "name": "ギフトセット バスエッセンス（ディテーションバス+ナイトリートバス）", "observed_price_jpy": 5335, "rank_in_post": 2, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["クリスマス"], "age_tags": [], "budget_tags": ["5000-10000"], "style_tags": ["消耗品", "もらって嬉しい"], "recommendation_reason": "名品入浴剤2種セット。香りと保湿効果で絶賛されると紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "ラベイユ", "name": "紅茶が華やぐはちみつギフト", "observed_price_jpy": 5076, "rank_in_post": 3, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["クリスマス"], "age_tags": [], "budget_tags": ["5000-10000"], "style_tags": ["人と被らない", "センスいい"], "recommendation_reason": "レザーウッドとライチの2種はちみつセット。朝食が贅沢になると紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "john masters organics", "name": "R&Aヘアマスク", "observed_price_jpy": 4950, "rank_in_post": 4, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["クリスマス"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["消耗品"], "recommendation_reason": "リピート買いが多いダメージケアマスク。12/18リニューアル情報付きで紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "資生堂", "name": "ザ・コラーゲン タブレット 30日分", "observed_price_jpy": 4860, "rank_in_post": 5, "recipient_tags": ["女友達", "家族"], "occasion_tags": ["クリスマス"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的"], "recommendation_reason": "インナーケアを気にし始めた友人・家族向けと紹介", "sentiment": "positive", "extraction_confidence": 0.95 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@heniuksnlhm/7543657350750618117",
+      "creator_handle": "heniuksnlhm",
+      "creator_name": "Kuraku",
+      "creator_followers": 187,
+      "published_at": "2025-08-29",
+      "title_or_summary": "本当は教えたくない最強ギフト5選（雑貨系）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "関連投稿巡回",
+      "metrics": { "likes": 69, "saves": 91, "comments": 10 },
+      "items": [
+        { "brand": null, "name": "金魚鉢アロマキャンドル", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["人と被らない", "おしゃれ"], "recommendation_reason": "小さな水族館のような見た目のキャンドル。灯すと水中光がゆらめくと紹介（ノーブランド雑貨）", "sentiment": "positive", "extraction_confidence": 0.5 },
+        { "brand": null, "name": "誕生日の月 オーダーメイドギフト（月相再現）", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["人と被らない"], "recommendation_reason": "誕生日当日の月を再現するオーダーメイド品。性格診断付きと紹介（ノーブランド雑貨）", "sentiment": "positive", "extraction_confidence": 0.5 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@user9818338228320/7484618279064519223",
+      "creator_handle": "user9818338228320",
+      "creator_name": "maruco",
+      "creator_followers": 32,
+      "published_at": "2025-03-22",
+      "title_or_summary": "送別の贈り物にもオススメ◎女子が喜ぶプレゼント5選（予算5000円）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "関連投稿巡回",
+      "metrics": { "likes": 127, "saves": 117, "comments": 12 },
+      "items": [
+        { "brand": "スターバックス", "name": "ステンレスTOGOロゴタンブラー メタリック 473ml", "observed_price_jpy": 4500, "rank_in_post": 1, "recipient_tags": ["女性", "同僚"], "occasion_tags": ["退職祝い", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的", "定番", "もらって嬉しい"], "recommendation_reason": "送別ギフト向けの実用タンブラーとして価格付きで紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "SABON", "name": "ボディスクラブ S ホワイトティー", "observed_price_jpy": 4290, "rank_in_post": 2, "recipient_tags": ["女性", "同僚"], "occasion_tags": ["退職祝い", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["消耗品", "定番"], "recommendation_reason": "万人受けするホワイトティー香のスクラブ。Sサイズで試しやすいと紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "ReFa", "name": "エールブラシ", "observed_price_jpy": 3800, "rank_in_post": 3, "recipient_tags": ["女性", "同僚"], "occasion_tags": ["退職祝い", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的"], "recommendation_reason": "コスメ被りを避けたい相手へのケア用品として紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "Aesop", "name": "アンドラム アロマティック ハンドバーム", "observed_price_jpy": 4180, "rank_in_post": 4, "recipient_tags": ["女性", "同僚"], "occasion_tags": ["退職祝い", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["センスいい", "消耗品"], "recommendation_reason": "毎日使えるハンドケアとして紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "Dior", "name": "アディクト リップグロウ ユニバーサルクリア", "observed_price_jpy": 4950, "rank_in_post": 5, "recipient_tags": ["女性", "同僚"], "occasion_tags": ["退職祝い", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "定番"], "recommendation_reason": "色選び失敗のないクリアリップとして紹介", "sentiment": "positive", "extraction_confidence": 0.95 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@nini_chan38/7543223760078930488",
+      "creator_handle": "nini_chan38",
+      "creator_name": "NiNi",
+      "creator_followers": 346,
+      "published_at": "2025-08-27",
+      "title_or_summary": "予算5,000円のプレゼントまとめ（ReFa特集）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "関連投稿巡回",
+      "metrics": { "likes": 688, "saves": 436, "comments": 12 },
+      "items": [
+        { "brand": "ReFa", "name": "コーム", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的", "高見え"], "recommendation_reason": "5000円前後で高級感のある美容ツールとして特集（商品詳細は画像内のため名称確度低め）", "sentiment": "positive", "extraction_confidence": 0.5 },
+        { "brand": "ReFa", "name": "フェイスカッサ", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的"], "recommendation_reason": "美容好きに喜ばれるツールとして特集（画像内情報のため確度低め）", "sentiment": "positive", "extraction_confidence": 0.5 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@em_gift_present/7173973163825512965",
+      "creator_handle": "em_gift_present",
+      "creator_name": "エム｜オトナ可愛いギフトご褒美",
+      "creator_followers": 151,
+      "published_at": "2022-12-06",
+      "title_or_summary": "【予算5,000円】オシャレ女子に贈るハイブラギフト５選（Dior・Chloé・GUCCI・CHANEL・HERMES）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "関連投稿巡回",
+      "metrics": { "likes": 272, "saves": 308, "comments": 10 },
+      "items": [
+        { "brand": "Dior", "name": "ヘアミスト", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達", "彼女"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "自分では買わない"], "recommendation_reason": "「自分では買わないけど貰うと嬉しい」代表として紹介", "sentiment": "positive", "extraction_confidence": 0.7 },
+        { "brand": "Chloé", "name": "ハンドクリーム", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達", "彼女"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "消耗品"], "recommendation_reason": "香り付きハンドクリームとして紹介", "sentiment": "positive", "extraction_confidence": 0.7 },
+        { "brand": "GUCCI", "name": "ルージュ", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達", "彼女"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "高見え"], "recommendation_reason": "特別感のあるハイブランドリップとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "CHANEL", "name": "コンパクトミラー", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達", "彼女"], "occasion_tags": ["誕生日", "記念日", "結婚祝い"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "実用的", "定番"], "recommendation_reason": "好みが分かれにくい名品小物。毎日使えて満足度が高いと紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "HERMES", "name": "ネイルエナメル", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達", "彼女"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え"], "recommendation_reason": "手元のおしゃれが好きな人向けと紹介", "sentiment": "positive", "extraction_confidence": 0.7 }
+      ]
+    }
+  ]
+}

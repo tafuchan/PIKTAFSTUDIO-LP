@@ -1,0 +1,250 @@
+{
+  "run": {
+    "collection_mode": "discovery",
+    "platform": "lemon8",
+    "query": "女友達 プレゼント / 彼女 誕生日プレゼント / もらって嬉しい 5000円 / 誕生日プレゼント 3000円 女性 / センスいい プレゼント 女性",
+    "status": "done",
+    "notes": "WebSearchのsite:lemon8-app.com検索でURLを発見し、WebFetchで開いて本文を読めた投稿のみ採用（verification=browser_verified）。/experience/形式のSEO自動生成ページは除外。lovme_official.jp/7163447508717470214とmeichan_cosme/7400364024644829701は404で開けず除外。既取得指定のakane.gift/7097180857441583621と@giftboy_present/7236587611031355909は対象外として検索・収集していない。WebFetchはHTML→Markdown変換した本文をAIが要約する方式のため、スライド画像内のテキスト（商品タグ等）がOCRされず、一部の投稿（akane.gift/7101260287843598854, akane.gift/7123523015086014982, akane.gift/7112061613888356870, @msksipxvsct/7574389406124786232, akane.gift/7118347221376287238の一部項目）はブランド名・具体的な商品名が本文から読み取れず、カテゴリー名のみ（brand:null）で記録している。捏造は行っていない。@mmmymkmmmのフォロワー数は投稿表示が『1.2万人』のため12000として概数記録。@msksipxvsctはフォロワー数表示が『2』と非常に少ないが、実際の表示値をそのまま記録（保存数・いいね数との乖離はLemon8のバイラル拡散特性による可能性）。@rakusix投稿は本文に投稿日時の記載が確認できずpublished_at=null。いいね/保存/コメント数は本文・プロフィール表示で確認できた値のみ記録し、非表示のものはnull。価格はブランド一覧表等で明記されていた投稿のみobserved_price_jpyに記録し、それ以外はnull。"
+  },
+  "posts": [
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/akane.gift/7123523015086014982",
+      "creator_handle": "akane.gift",
+      "creator_name": "あかね.喜ばれるギフト",
+      "creator_followers": 3406,
+      "published_at": "2022-07-23",
+      "title_or_summary": "【予算3000円】大人女子が本当に喜ぶハイセンス誕プレ5選｜タオル・ハンドクリーム・バスソルト",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "誕生日プレゼント 3000円 女性",
+      "metrics": {"likes": 333, "saves": 384, "comments": 10},
+      "items": [
+        {"brand": null, "name": "オーガニックコットンのハンドタオル", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["実用的", "自分では買わない"], "recommendation_reason": "厚みのあるオーガニックコットン素材で、白・ベージュ・グレーなど職場でも浮かない色を選べば実用性と上品さを両立できる", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": null, "name": "べたつきにくいミニサイズハンドクリーム", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["消耗品", "気を遣わせない"], "recommendation_reason": "使い切りサイズで香りも石けん・シトラス・ラベンダー系を選べば好みを外しにくく、渡す側も気を遣わせない", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": null, "name": "天然ミネラル・ラベンダー系のバスソルト", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["自分では買わない", "もらって嬉しい"], "recommendation_reason": "粒の細かいクリーム状で肌当たりが良く、自分では買わないご褒美感のあるリラックスアイテムとして喜ばれる", "sentiment": "positive", "extraction_confidence": 0.6}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@dnpk88/7513519887721988664",
+      "creator_handle": "dnpk88",
+      "creator_name": "べんり部",
+      "creator_followers": 4056,
+      "published_at": "2025-06-08",
+      "title_or_summary": "【3000円以内】中学生女子が本当に喜ぶプレゼント5選｜即買いプチギフト（実用＆おしゃれ）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "誕生日プレゼント 3000円 女性",
+      "metrics": {"likes": 40, "saves": 31, "comments": 10},
+      "items": [
+        {"brand": "MARVIS", "name": "ホワイトミント歯磨き粉", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": ["10代"], "budget_tags": ["2000-3000"], "style_tags": ["おしゃれ", "消耗品", "自分では買わない"], "recommendation_reason": "海外ホテルのようなおしゃれなパッケージで洗面台に置くだけで映え、毎日使うことで贈られた実感が長持ちする", "sentiment": "positive", "extraction_confidence": 0.75},
+        {"brand": "キングジム", "name": "静電気吸着ボード", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": ["10代"], "budget_tags": ["2000-3000"], "style_tags": ["実用的"], "recommendation_reason": "穴あけ不要で壁に貼れ、プリントや推し写真を飾れて自分の部屋スペースを可愛くできる", "sentiment": "positive", "extraction_confidence": 0.75},
+        {"brand": "ハルインダストリ", "name": "消臭剤", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": ["10代"], "budget_tags": ["2000-3000"], "style_tags": ["実用的"], "recommendation_reason": "玄関やトイレをホテルのような香りにでき、部活後のバッグの匂いケアにも使える実用アイテム", "sentiment": "positive", "extraction_confidence": 0.75},
+        {"brand": "BeeNesting", "name": "衣類圧縮バッグ", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": ["10代"], "budget_tags": ["2000-3000"], "style_tags": ["実用的"], "recommendation_reason": "修学旅行や合宿での荷物整理に役立ち、実用性の高さで喜ばれる", "sentiment": "positive", "extraction_confidence": 0.75}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/akane.gift/7118347221376287238",
+      "creator_handle": "akane.gift",
+      "creator_name": "あかね.喜ばれるギフト",
+      "creator_followers": 3406,
+      "published_at": "2022-07-09",
+      "title_or_summary": "【予算3000円】女性が喜ぶ実用的プチギフト5選｜女友達の誕生日・お礼・退職にも",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "誕生日プレゼント 3000円 女性",
+      "metrics": {"likes": 25, "saves": 17, "comments": 10},
+      "items": [
+        {"brand": "DEAN & DELUCA", "name": "ハートジャムサンドクッキー", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "お礼", "退職祝い"], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["プチギフト", "定番"], "recommendation_reason": "みんなで分けやすく食べきりやすい上にパッケージが可愛いため、職場への気遣いギフトに向いている", "sentiment": "positive", "extraction_confidence": 0.7},
+        {"brand": null, "name": "ハンドクリーム＆ハンドタオルセット", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "お礼", "退職祝い"], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["実用的"], "recommendation_reason": "毎日使える実用性に加え、セットで贈ることできちんとした特別感を演出できる。香りは金木犀など優しい系か無香料が無難", "sentiment": "positive", "extraction_confidence": 0.55},
+        {"brand": "OSAJI", "name": "せっけんセット（泡立てネット付き）", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "お礼", "退職祝い"], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["実用的", "気を遣わせない"], "recommendation_reason": "肌に優しい成分設計ですぐに使え、実用性の高さで好印象", "sentiment": "positive", "extraction_confidence": 0.7},
+        {"brand": null, "name": "パロサントボトル（香りのインテリア）", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "お礼", "退職祝い"], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["おしゃれ", "自分では買わない"], "recommendation_reason": "置くだけでおしゃれな空間になり、ウッディな香りで気分転換にもなる", "sentiment": "positive", "extraction_confidence": 0.55},
+        {"brand": null, "name": "消えもの（食べ物・消耗品全般）", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "お礼", "退職祝い"], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["定番", "気を遣わせない"], "recommendation_reason": "相手の好みを読みやすく失敗しにくい定番の選択肢として紹介されている", "sentiment": "positive", "extraction_confidence": 0.5}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/akane.gift/7112061613888356870",
+      "creator_handle": "akane.gift",
+      "creator_name": "あかね.喜ばれるギフト",
+      "creator_followers": 3406,
+      "published_at": "2022-06-22",
+      "title_or_summary": "【予算3000円】30代女性の友達に喜ばれた実用的プチギフト5選（プレゼント交換・誕生日にも）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "誕生日プレゼント 3000円 女性",
+      "metrics": {"likes": 21, "saves": 19, "comments": null},
+      "items": [
+        {"brand": null, "name": "リップ・ネイルオイル・入浴剤などの消耗品", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["プレゼント交換", "誕生日"], "age_tags": ["30代"], "budget_tags": ["2000-3000"], "style_tags": ["消耗品", "気を遣わせない"], "recommendation_reason": "自分では買わない消耗品は好みが分かれにくく失敗が少ない", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": null, "name": "ハンドソープ・ハンドケア・アルコールスプレーなど小物", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["プレゼント交換", "誕生日"], "age_tags": ["30代"], "budget_tags": ["2000-3000"], "style_tags": ["実用的"], "recommendation_reason": "置き場所に困らない小物サイズが好まれる", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": "uka", "name": "ヘアケア・頭皮ケア製品", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["プレゼント交換", "誕生日"], "age_tags": ["30代"], "budget_tags": ["2000-3000"], "style_tags": ["実用的", "もらって嬉しい"], "recommendation_reason": "香りが強すぎず万人受けするため、贈り物として選びやすい", "sentiment": "positive", "extraction_confidence": 0.65},
+        {"brand": "BARTH", "name": "中性重炭酸入浴剤", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": ["プレゼント交換", "誕生日"], "age_tags": ["30代"], "budget_tags": ["2000-3000"], "style_tags": ["自分では買わない"], "recommendation_reason": "相手の生活スタイルを確認した上で贈ると喜ばれる入浴剤として紹介", "sentiment": "positive", "extraction_confidence": 0.65},
+        {"brand": null, "name": "CHANEL・SHIRO・SABONなど有名ブランドの消耗品", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達"], "occasion_tags": ["プレゼント交換", "誕生日"], "age_tags": ["30代"], "budget_tags": ["2000-3000"], "style_tags": ["高見え", "デパコス"], "recommendation_reason": "知名度のあるブランドの消耗品を組み合わせることで特別感が出る", "sentiment": "positive", "extraction_confidence": 0.55}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@msksipxvsct/7574389406124786232",
+      "creator_handle": "msksipxvsct",
+      "creator_name": null,
+      "creator_followers": 2,
+      "published_at": "2025-11-19",
+      "title_or_summary": "予算3000円で選ぶ！女友達に喜ばれるおすすめプレゼント5選",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "誕生日プレゼント 3000円 女性",
+      "metrics": {"likes": 48, "saves": 35, "comments": null},
+      "items": [
+        {"brand": null, "name": "クレンジングバーム（スパチュラ付き）", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["実用的"], "recommendation_reason": "スパチュラ付きで衛生的に使えるクレンジングバームは消耗品として実用性が高い", "sentiment": "positive", "extraction_confidence": 0.55},
+        {"brand": null, "name": "リボン型ヘアクリップ", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["おしゃれ", "センスいい"], "recommendation_reason": "黒・ベージュ・くすみピンクなど落ち着いた色を選べばハイセンスに見える", "sentiment": "positive", "extraction_confidence": 0.55},
+        {"brand": null, "name": "シャンプー・トリートメントセット", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["実用的"], "recommendation_reason": "毎日使うヘアケア用品はもらって困りにくい定番アイテム", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": null, "name": "柄入りハンカチ", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["定番", "プチギフト"], "recommendation_reason": "実用性が高く、柄物を選ぶことでちょっとした特別感が出る", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": null, "name": "ハート柄コーム", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["おしゃれ"], "recommendation_reason": "デザイン性のあるコームはちょっとした遊び心のあるギフトになる", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": null, "name": "卵型リップバーム", "observed_price_jpy": null, "rank_in_post": 6, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["プチギフト", "おしゃれ"], "recommendation_reason": "香水よりも取り入れやすいリップバームは気軽に渡せるアイテムとして紹介", "sentiment": "positive", "extraction_confidence": 0.5}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@mmmymkmmm/7227838178890236421",
+      "creator_handle": "mmmymkmmm",
+      "creator_name": "アフリカ少女_モテ情報まとめ",
+      "creator_followers": 12000,
+      "published_at": "2023-04-30",
+      "title_or_summary": "【コスメオタク厳選】センスのいいコスメギフト10選｜女友達も彼氏も喜ぶ価格別プレゼント",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "センスいい プレゼント 女性",
+      "metrics": {"likes": 110, "saves": 94, "comments": null},
+      "items": [
+        {"brand": "レブロン", "name": "ブラッシュ&イルミネーターパレット", "observed_price_jpy": 1870, "rank_in_post": 1, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-2000"], "style_tags": ["コスパ", "センスいい"], "recommendation_reason": "9色のチークパレットにハイライターが入っており色を混ぜて使えるコスパの良さが評価されている", "sentiment": "positive", "extraction_confidence": 0.85},
+        {"brand": "CipiCipi", "name": "グリッターイルミネーションライナーR", "observed_price_jpy": 1320, "rank_in_post": 2, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-2000"], "style_tags": ["コスパ"], "recommendation_reason": "大粒ラメで密着度が高く落ちにくい上、パッケージも実用的", "sentiment": "positive", "extraction_confidence": 0.85},
+        {"brand": "PERFECT DIARY", "name": "ベルベットマットリップティント 片思いシリーズ", "observed_price_jpy": 2380, "rank_in_post": 3, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["デパコス", "センスいい"], "recommendation_reason": "透明感のあるマットリップで、021番の色味が特におすすめされている", "sentiment": "positive", "extraction_confidence": 0.85},
+        {"brand": "EKATO", "name": "プレシャスジェルパック（3回分）", "observed_price_jpy": 4950, "rank_in_post": 4, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え"], "recommendation_reason": "炭酸ガスを60分安定発生させる特許取得済みの技術が高見えポイントとして紹介", "sentiment": "positive", "extraction_confidence": 0.85},
+        {"brand": "ワンデイズユー", "name": "ヘルプミー! ハニーCパッド", "observed_price_jpy": 1680, "rank_in_post": 5, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-2000"], "style_tags": ["コスパ"], "recommendation_reason": "エスターバニーとのコラボで保湿効果があり肌の透明感が上がる", "sentiment": "positive", "extraction_confidence": 0.85},
+        {"brand": "ワンデイズユー", "name": "コラーゲンハイドロゲルアイパッチ", "observed_price_jpy": 2100, "rank_in_post": 6, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["高見え"], "recommendation_reason": "目元・口元のほうれい線ケアに使えるエイジングケアアイテムとして紹介", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "サロニア", "name": "EMSリフトブラシ", "observed_price_jpy": 27500, "rank_in_post": 7, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": [], "style_tags": ["高見え"], "recommendation_reason": "顔・頭皮・体に使える多機能美容機器で、小顔・たるみケア効果が謳われている", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "withmoon", "name": "CBDおまもりロールオン", "observed_price_jpy": 2970, "rank_in_post": 8, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["2000-3000"], "style_tags": ["おしゃれ", "センスいい"], "recommendation_reason": "柑橘・お花系の香りでリラックス効果があるとして紹介されている", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "スキンマルシェW", "name": "プラントベースミルクブースターマスク", "observed_price_jpy": 1485, "rank_in_post": 9, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-2000"], "style_tags": ["コスパ"], "recommendation_reason": "美肌菌成分配合で乾燥肌向けのプラスαケアとして紹介", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "MEDITHERAPY", "name": "リンクルフィットマスク+ニードル", "observed_price_jpy": 5130, "rank_in_post": 10, "recipient_tags": ["女友達", "彼氏"], "occasion_tags": [], "age_tags": [], "budget_tags": ["5000-10000"], "style_tags": ["高見え"], "recommendation_reason": "エステ並みの効果を謳うシワ・たるみ・小顔ケア対応マスクとして紹介", "sentiment": "positive", "extraction_confidence": 0.8}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@aoiroom2020/7522457998099694086",
+      "creator_handle": "aoiroom2020",
+      "creator_name": "あおい⌇アラサー女性へのギフト•プレゼント",
+      "creator_followers": 7090,
+      "published_at": "2025-07-02",
+      "title_or_summary": "【予算2000円】女性に喜ばれるおしゃれな2個セットギフト3選｜プチプラでセンスいい",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "センスいい プレゼント 女性",
+      "metrics": {"likes": 177, "saves": 240, "comments": 10},
+      "items": [
+        {"brand": "AUX PARADIS", "name": "ハンドクリーム＋リップバームセット", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-2000"], "style_tags": ["プチギフト", "センスいい"], "recommendation_reason": "サボン・フルール・ローズなど香りを選べるため失敗しにくく、選ぶ過程自体にギフト感が出る", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "DEAN & DELUCA", "name": "ミニトート＋シリアルバー", "observed_price_jpy": 700, "rank_in_post": 2, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-2000"], "style_tags": ["プチギフト", "おしゃれ"], "recommendation_reason": "ミニトートは見た目が可愛く小物入れとして残り、食べ物は消えもので相手の好みを外しにくい", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "MARKS&WEB", "name": "ハーバルリップクリーム＋ウッドコンパクトミラー", "observed_price_jpy": 2000, "rank_in_post": 3, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-2000"], "style_tags": ["プチギフト", "定番"], "recommendation_reason": "シンプルなデザインで年代を問わず使え、自分では後回しにしがちなアイテムがもらうと嬉しい", "sentiment": "positive", "extraction_confidence": 0.8}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@aoiroom2020/7564393554773115448",
+      "creator_handle": "aoiroom2020",
+      "creator_name": "あおい⌇アラサー女性へのギフト•プレゼント",
+      "creator_followers": 7090,
+      "published_at": "2025-10-23",
+      "title_or_summary": "【30代女性の誕生日プレゼント】実用的でおしゃれ！センスが伝わるカタログギフト（5,500円）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "センスいい プレゼント 女性",
+      "metrics": {"likes": 6, "saves": 5, "comments": null},
+      "items": [
+        {"brand": "SELECT for Her", "name": "カタログギフト〈Gifts for Adult Girls〉", "observed_price_jpy": 5500, "rank_in_post": 1, "recipient_tags": ["女性"], "occasion_tags": ["誕生日"], "age_tags": ["30代"], "budget_tags": ["5000-10000"], "style_tags": ["高見え", "実用的"], "recommendation_reason": "レザー巾着やスターバックスギフトなど10種類以上から相手が選べるカタログ形式で、実用性とセンスの良さを両立できる", "sentiment": "positive", "extraction_confidence": 0.75}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@rakusix/7544168234325918264",
+      "creator_handle": "rakusix",
+      "creator_name": "TSUKIOKU",
+      "creator_followers": 330,
+      "published_at": null,
+      "title_or_summary": "【予算5000円】女子が喜ぶ誕プレ・記念日ギフト5選｜月相オーダー＆癒し小物も",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "センスいい プレゼント 女性",
+      "metrics": {"likes": 66, "saves": 54, "comments": 11},
+      "items": [
+        {"brand": null, "name": "誕生日の月（生まれた日の月相を再現したオーダーメイドライト）", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女性"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["人と被らない", "センスいい"], "recommendation_reason": "生まれた日の月の形を再現する世界に一つだけのオーダーメイドギフトとして紹介されている", "sentiment": "positive", "extraction_confidence": 0.7},
+        {"brand": null, "name": "金魚鉢アロマキャンドル（ライト付き）", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女性"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ", "もらって嬉しい"], "recommendation_reason": "金魚が揺らめくような幻想的なデザインで、香りと光の両方で癒し効果を演出する", "sentiment": "positive", "extraction_confidence": 0.7},
+        {"brand": null, "name": "12星座パワーブレスレット", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女性"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ", "人と被らない"], "recommendation_reason": "星座ごとの天然石を組み合わせた運気アップ・お守りアイテムとして紹介", "sentiment": "positive", "extraction_confidence": 0.65},
+        {"brand": null, "name": "済州島モチーフのバースデーブレスレット", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女性"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["人と被らない", "センスいい"], "recommendation_reason": "韓国発のデザインで12ヶ月を色と天然石で表現したブレスレットとして紹介", "sentiment": "positive", "extraction_confidence": 0.65},
+        {"brand": null, "name": "三毛猫とおちょこのセット", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女性"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["人と被らない"], "recommendation_reason": "猫好きに向けた酒器セットで、晩酌時間を癒すギフトとして紹介", "sentiment": "positive", "extraction_confidence": 0.65}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/stylehaus/7072291440625467909",
+      "creator_handle": "stylehaus",
+      "creator_name": "STYLE HAUS",
+      "creator_followers": 9917,
+      "published_at": "2022-03-07",
+      "title_or_summary": "予算5,000円以内で喜ばれる！センスのいいプレゼント5選",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "センスいい プレゼント 女性",
+      "metrics": {"likes": 74, "saves": 55, "comments": 5},
+      "items": [
+        {"brand": "Jo Malone", "name": "イングリッシュペアー&フリージア キャンドル", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "高見え"], "recommendation_reason": "憧れブランドとして名前を見ただけで嬉しくなる人が多いと紹介されている", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "Jo Malone", "name": "コロン ディスカバリーセット（1.5ml×5本）", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "気を遣わせない"], "recommendation_reason": "小容量を複数楽しめるため相手が好みを見つけやすく重くない贈り物になる", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "BAGGU・HAY", "name": "エコバッグ", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ", "実用的"], "recommendation_reason": "デザインが可愛く買い物や旅行のサブバッグとして実用的に使える", "sentiment": "positive", "extraction_confidence": 0.75},
+        {"brand": "BULY", "name": "ポマード・コンクレット（ハンド&フットクリーム）", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "デパコス"], "recommendation_reason": "パッケージに高級感があり好みが分かれにくいため贈りやすい", "sentiment": "positive", "extraction_confidence": 0.75},
+        {"brand": "Austin Austin", "name": "オーガニックハンドソープ（300ml）", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["消耗品", "高見え"], "recommendation_reason": "消耗品で置き場所を取らず、香りでリッチな雰囲気を演出できる", "sentiment": "positive", "extraction_confidence": 0.75}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/gift_otakudesu/7058206229226783237",
+      "creator_handle": "gift_otakudesu",
+      "creator_name": "ギフトおたく",
+      "creator_followers": 7256,
+      "published_at": "2022-01-29",
+      "title_or_summary": "彼氏が本当に喜ぶプレゼント7選｜予算5000円で『自分では買わない』メンズギフト（誕生日にも）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "もらって嬉しい 5000円",
+      "metrics": {"likes": 442, "saves": 462, "comments": 2},
+      "items": [
+        {"brand": "FREAK'S STORE", "name": "キルティング モックシューズ", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["彼氏"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的", "おしゃれ"], "recommendation_reason": "アウトドア好きに合う防寒性のあるモックシューズで、実用性とデザイン性を両立していると紹介", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "APOTHEKE FRAGRANCE", "name": "HAND WASH", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["彼氏"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["消耗品", "おしゃれ"], "recommendation_reason": "お香より日常での使用率が高いハンドウォッシュ形式で実用的なギフトとして紹介", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "imp.", "name": "ウィステリアブロッサム オードパルファム 70mL", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["彼氏"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["自分では買わない", "もらって嬉しい"], "recommendation_reason": "人気の高い香りで記憶に残るプレゼントとして紹介されている", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "DEVICE", "name": "Rename ナイロン ダブルジップバックパック", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["彼氏"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["コスパ", "実用的"], "recommendation_reason": "5000円台でこのクオリティは珍しく、大学生に特に向くと紹介されている", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "Marvis", "name": "ザ・クラシック・マービス・セット", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["彼氏"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["自分では買わない", "高見え"], "recommendation_reason": "自分では買わない高級歯磨き粉のギフトボックス入りセットとして紹介", "sentiment": "positive", "extraction_confidence": 0.8},
+        {"brand": "CONVERSE", "name": "カラフル シューズ ロゴ スウェット", "observed_price_jpy": null, "rank_in_post": 6, "recipient_tags": ["彼氏"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["人と被らない", "おしゃれ"], "recommendation_reason": "あまり被らないデザインのスウェットとしてかっこいいアイテムに紹介されている", "sentiment": "positive", "extraction_confidence": 0.75},
+        {"brand": "ABAHOUSE", "name": "ワッフル ルーズ プルオーバー パーカー", "observed_price_jpy": null, "rank_in_post": 7, "recipient_tags": ["彼氏"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的"], "recommendation_reason": "速乾性に優れ部屋着にも外出着にも使える万能パーカーとして紹介", "sentiment": "positive", "extraction_confidence": 0.75}
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/akane.gift/7101260287843598854",
+      "creator_handle": "akane.gift",
+      "creator_name": "あかね.喜ばれるギフト",
+      "creator_followers": 3406,
+      "published_at": "2022-05-24",
+      "title_or_summary": "【予算5000円】女性が本当に喜ぶ『自分では買わないけど嬉しい』外さないギフト5選（大人おしゃれ）",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "もらって嬉しい 5000円",
+      "metrics": {"likes": 45, "saves": 31, "comments": null},
+      "items": [
+        {"brand": null, "name": "ハンドソープ・ハンドクリーム・入浴剤・ルームフレグランス", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["自分では買わない", "もらって嬉しい"], "recommendation_reason": "生活の満足度を上げる上質な消耗品として、自分では買わないが貰うと嬉しいカテゴリーとして紹介", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": null, "name": "ハンカチ・ミニタオル・ポーチ・カードケース・タンブラー", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["実用的", "定番"], "recommendation_reason": "普段使いできる実用アイテムだが自分ではなかなか買い替えないため贈り物に向くと紹介", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": null, "name": "リップケア・ネイルオイル・紅茶やコーヒーなどのスイーツセット", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": ["30代"], "budget_tags": ["3000-5000"], "style_tags": ["消耗品", "気を遣わせない"], "recommendation_reason": "30代の友人向けには実用性に少し贅沢さを添えたリップケアやお茶・スイーツ系アイテムが良いとして紹介", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": null, "name": "上質なハンドクリーム・のど飴・ハーブティー・タオルハンカチ", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["上司"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["気を遣わせない", "定番"], "recommendation_reason": "女性上司向けにはコスメを避け、上質なハンドクリームやハーブティーなど上品で気を遣わせないアイテムを勧めている", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": null, "name": "上質なタオル・シルク系ヘアアクセ・ナイトキャップ・入浴剤", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": ["50代"], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "もらって嬉しい"], "recommendation_reason": "50代女性向けには上質なタオルやシルク系ヘアアクセなど、素材の質と心地よさを重視したセルフケア系アイテムを勧めている", "sentiment": "positive", "extraction_confidence": 0.5}
+      ]
+    }
+  ]
+}

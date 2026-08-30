@@ -1,0 +1,111 @@
+{
+  "run": {
+    "collection_mode": "discovery",
+    "platform": "lemon8",
+    "query": "女友達 5000円 ギフト（エンジン比較プローブ: Codex web_search）",
+    "status": "done",
+    "notes": "TikTokはrobots.txtで個別ページ不可とCodexが報告。giftboy投稿1件はClaudeがブラウザで実在・内容・指標を直接確認（likes26/saves51/comments10/フォロワー1.2万/2023-05-24編集）。他は検索経由のためsearch_sourced。"
+  },
+  "posts": [
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@giftboy_present/7236587611031355909",
+      "creator_handle": "giftboy_present",
+      "creator_name": "Gift boy ギフト選び",
+      "creator_followers": 12000,
+      "published_at": "2023-05-24",
+      "title_or_summary": "【女友達に贈りたい】5000円予算の最強ギフト 5選 Part5",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "女友達 5000円 ギフト",
+      "metrics": { "likes": 26, "saves": 51, "comments": 10 },
+      "items": [
+        { "brand": "CHANEL", "name": "ミロワール ドゥーブル ファセット コンパクトミラー", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "デパコス", "実用的"], "recommendation_reason": "5000円で買えるハイブランド実用小物。通常鏡+拡大鏡で毎日使えると紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "JILL STUART", "name": "サムシングピュアブルー セントリップブーケ セラム", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "消耗品"], "recommendation_reason": "色選びの失敗が少ないケア寄りリップ美容液として紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "Aesop", "name": "サラシナ アロマティック インセンス", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ", "センスいい"], "recommendation_reason": "甘すぎないウッディ系インセンスで大人っぽい印象と紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "HERMES", "name": "パフュームド ソープ ツイリー ドゥ エルメス", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "消耗品"], "recommendation_reason": "ほのかな香りで万人向けのハイブランド石けんとして紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "APLO.", "name": "パールロングピアス", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "きれいめにもカジュアルにも合う華奢パールピアスとして紹介", "sentiment": "positive", "extraction_confidence": 0.95 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@mmmymkmmm/7119715075799171589",
+      "creator_handle": "mmmymkmmm",
+      "creator_name": null,
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "【予算5000円】女友達とお揃いギフトにぴったりなアクセサリー",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "女友達 5000円 ギフト",
+      "metrics": { "saves": 124 },
+      "items": [
+        { "brand": "GLUCK", "name": "ネックレス", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "5000円以内で女友達とお揃いにできるアクセサリーとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "GLUCK", "name": "リング", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "お揃いギフト向けリングとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "GLUCK", "name": "ブレスレット", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": [], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "お揃いギフト向けブレスレットとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@giftboy_present/7664976164481499664",
+      "creator_handle": "giftboy_present",
+      "creator_name": "Gift boy ギフト選び",
+      "creator_followers": 12000,
+      "published_at": null,
+      "title_or_summary": "【女友達が喜ぶ】5,000円予算の最強ギフト5選",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "女友達 5000円 ギフト",
+      "metrics": { "saves": 9 },
+      "items": [
+        { "brand": "SHIRO", "name": "ニーム ヘアバーム", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["消耗品", "おしゃれ"], "recommendation_reason": "SHIROのヘアバームを5000円ギフト枠で紹介", "sentiment": "positive", "extraction_confidence": 0.65 },
+        { "brand": "FEMMUE", "name": "サマーグロウ リチュアル キット", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス"], "recommendation_reason": "スキンケアキットとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "APLO.", "name": "バロックパールリング", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "パールリングとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "Officine Universelle Buly", "name": "THE TRADITIONALIST – THE YOUNGEST", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "センスいい"], "recommendation_reason": "ハイセンス枠のBulyアイテムとして紹介", "sentiment": "positive", "extraction_confidence": 0.55 },
+        { "brand": "PRADA BEAUTY", "name": "リフレクション リキッド バーム グロス", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日", "お礼"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "高見え"], "recommendation_reason": "ハイブランドのリップグロスとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@em_gift_present/7449326659481928197",
+      "creator_handle": "em_gift_present",
+      "creator_name": null,
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "【予算5,000円】女友達に贈るクリスマスプレゼント5選",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "女友達 5000円 ギフト",
+      "metrics": { "saves": 22 },
+      "items": [
+        { "brand": "L'OCCITANE", "name": "ドリーミーコレクション2024", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["クリスマス", "誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["定番"], "recommendation_reason": "ホリデー限定のボディケアセットとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "Jo Malone London", "name": "イングリッシュ ペアー＆フリージア ボディ＆ハンド ウォッシュ", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["クリスマス", "誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "消耗品"], "recommendation_reason": "人気香調のハンドウォッシュとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "john masters organics", "name": "ヘアケアミニコフレ", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["クリスマス", "誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["消耗品"], "recommendation_reason": "オーガニックヘアケアのミニセットとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "Officine Universelle Buly", "name": "オー・トリプル（ローズ蒸留水ベース化粧水）", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": ["クリスマス", "誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["センスいい", "高見え"], "recommendation_reason": "ローズ蒸留水ベースの化粧水として紹介", "sentiment": "positive", "extraction_confidence": 0.5 },
+        { "brand": "HACCI", "name": "ホリデー限定セット", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達"], "occasion_tags": ["クリスマス", "誕生日"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え"], "recommendation_reason": "はちみつコスメのホリデーセットとして紹介", "sentiment": "positive", "extraction_confidence": 0.55 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/kotaro_setsuyaku/7182912415607046661",
+      "creator_handle": "kotaro_setsuyaku",
+      "creator_name": null,
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "予算5,000円で選ぶ最強プチギフト7選",
+      "content_type": "lemon8_post",
+      "verification": "search_sourced",
+      "discovery_query": "5000円 プチギフト",
+      "metrics": {},
+      "items": [
+        { "brand": "Officine Universelle Buly", "name": "ボーム・デ・ミューズ", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["彼女", "女友達"], "occasion_tags": ["誕生日", "記念日", "プレゼント交換"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["プチギフト", "センスいい"], "recommendation_reason": "リップバームをプチギフト枠で紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "LOEWE", "name": "001 ウーマン オードゥ パルファン 15ml", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["彼女", "女友達"], "occasion_tags": ["誕生日", "記念日", "プレゼント交換"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え"], "recommendation_reason": "ハイブランド香水の小瓶として紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "Jo Malone London", "name": "イングリッシュ ペアー＆フリージア ボディ クレーム 50ml", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["彼女", "女友達"], "occasion_tags": ["誕生日", "記念日", "プレゼント交換"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "消耗品"], "recommendation_reason": "人気香調のボディクリーム小サイズとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "CHANEL", "name": "ミロワール ドゥーブル ファセット コンパクトミラー", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["彼女", "女友達"], "occasion_tags": ["誕生日", "記念日", "プレゼント交換"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "実用的"], "recommendation_reason": "CHANELの実用ミラーをプチギフト枠で紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "DIOR", "name": "ミス ディオール ハンド クリーム", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["彼女", "女友達"], "occasion_tags": ["誕生日", "記念日", "プレゼント交換"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["デパコス", "消耗品"], "recommendation_reason": "デパコスハンドクリームの定番として紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "LE LABO", "name": "ハンドローション HINOKI", "observed_price_jpy": null, "rank_in_post": 6, "recipient_tags": ["彼女", "女友達"], "occasion_tags": ["誕生日", "記念日", "プレゼント交換"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["センスいい", "人と被らない"], "recommendation_reason": "ヒノキ香のハンドローションとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 },
+        { "brand": "gelato pique", "name": "HOLIDAY ベアハートポーチ", "observed_price_jpy": null, "rank_in_post": 7, "recipient_tags": ["彼女", "女友達"], "occasion_tags": ["誕生日", "記念日", "プレゼント交換"], "age_tags": [], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "ホリデー限定ポーチとして紹介", "sentiment": "positive", "extraction_confidence": 0.6 }
+      ]
+    }
+  ]
+}

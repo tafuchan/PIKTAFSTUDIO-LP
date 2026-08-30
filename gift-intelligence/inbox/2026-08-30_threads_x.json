@@ -1,0 +1,170 @@
+{
+  "run": {
+    "collection_mode": "discovery",
+    "platform": "threads+x",
+    "query": "もらって嬉しかった プレゼント / これプレゼントしたら喜ばれた / プレゼント 正解だった ほか",
+    "status": "partial",
+    "notes": "X(x.com/twitter.com)の個別投稿URLはWebFetchで開くと毎回HTTP 402 Payment Required（ログイン壁）となり本文取得不可。テストしたURL例: x.com/AsakaOfficial/status/1887085893582037226, x.com/kida_bisco/status/2048365090215510114, x.com/miho_karasawa/status/2004475291138470084（いずれも402）。WebSearchのスニペットのみで商品名が具体的に確認できたX投稿（例: オルビス誕生日特典のリップバーム@STARS_STRIPES_5）はあったが、贈答文脈というより自己購入的な内容で採用基準（もらって嬉しかった＋商品名特定）に対する適合度が低いため今回は不採用とした。結果としてXからの採用投稿は0件。Threads(threads.com)は個別投稿がWebFetchで開け、本文全文を確認できた。ただしヒットした投稿の多くは商品名が非開示（例: @kusekawa_ii の結婚祝いソープギフトはブランド不明、@yuna_momlife の内祝いもブランド不明、@tsumufuta_mama の出産祝いおすすめもテキストにブランド記載なし）、または感情表現が中立（@masaki_matsumoto のオートバックス来店入浴剤ハッシュタグ詰め合わせは『貰ったよ』のみで喜びの表現なし）だったため除外。採用した5投稿は商品名がテキストで具体的に特定でき、かつ肯定的感情が明記されているもの。取得できた投稿の閲覧数は216〜5,400、いいねは2〜16程度で、いずれもバズっていない一般アカウントの自然な投稿。ミラーサイト・nitter等の回避策は使用していない。",
+    "constraints_detail": {
+      "threads_access": "WebFetchで個別投稿は取得可能。検索結果スニペットに投稿本文の一部が含まれることも多く、site:検索での発見効率は良好だった。",
+      "x_access": "個別ツイートURLは全件402 Payment Requiredで本文取得不可。WebSearchスニペットのみが情報源となるが、商品名が明確でかつ贈答の自然な口コミと言える投稿は今回発見できなかった。",
+      "excluded_examples": [
+        "https://www.threads.com/@kusekawa_ii/post/DTAaT6wjNYf （結婚祝いソープギフト、ブランド名記載なしのため除外）",
+        "https://www.threads.com/@yuna_momlife/post/DbfJWVokiPV （友人からの内祝い、ブランド名記載なしのため除外）",
+        "https://www.threads.com/@tsumufuta_mama/post/DRY3okCE3I8 （出産祝いおすすめ、本文にブランド名なし・画像のみのため除外）",
+        "https://www.threads.com/@masaki_matsumoto/post/DFSCTCASu3G （オートバックス来店特典の入浴剤、喜びの感情表現がなく事実記載のみのため除外）"
+      ]
+    }
+  },
+  "posts": [
+    {
+      "platform": "threads",
+      "source_url": "https://www.threads.com/@endoumasaaki/post/DXeDKLJkTlf",
+      "creator_handle": "endoumasaaki",
+      "published_at": "2026-04-23",
+      "title_or_summary": "母の日の贈り物で大正解だった話。暑がりの母にAND・DECO 360°首振りサーキュレーターを迷わず贈って喜ばれた",
+      "content_type": "threads_post",
+      "verification": "direct_fetch",
+      "discovery_query": "\"もらって嬉しかった\" プレゼント threads.com",
+      "metrics": {"views": 4},
+      "items": [
+        {
+          "brand": "AND・DECO",
+          "name": "360°首振りサーキュレーター",
+          "observed_price_jpy": null,
+          "rank_in_post": null,
+          "recipient_tags": ["母"],
+          "occasion_tags": ["母の日"],
+          "age_tags": ["シニア"],
+          "budget_tags": [],
+          "style_tags": ["もらって嬉しい", "家電ギフト", "静音"],
+          "recommendation_reason": "暑がりの母に贈った。届いた瞬間笑顔になり、夜寝室で使うと音が静かで風が部屋中に優しく回ると大喜び。リモコンでベッドから操作でき、省エネなのにパワフル、見た目もおしゃれでリビングに馴染むと高評価。",
+          "sentiment": "positive",
+          "extraction_confidence": 0.6
+        }
+      ]
+    },
+    {
+      "platform": "threads",
+      "source_url": "https://www.threads.com/@mimi__.1110/post/DU6hn0Kk9lX",
+      "creator_handle": "mimi__.1110",
+      "published_at": "2026-02-18",
+      "title_or_summary": "PRADAのハンドクリームに名入れして世界に一つだけの贈り物に",
+      "content_type": "threads_post",
+      "verification": "direct_fetch",
+      "discovery_query": "site:threads.com コスメ プレゼント もらって 嬉しかった",
+      "metrics": {"views": 5400, "likes": 13, "comments": 1},
+      "items": [
+        {
+          "brand": "PRADA",
+          "name": "ハンドクリーム",
+          "observed_price_jpy": null,
+          "rank_in_post": null,
+          "recipient_tags": [],
+          "occasion_tags": [],
+          "age_tags": [],
+          "budget_tags": [],
+          "style_tags": ["名入れ", "パーソナライズギフト"],
+          "recommendation_reason": "名入れ（刻印）することで世界に一つだけの贈り物にできる点を評価",
+          "sentiment": "positive",
+          "extraction_confidence": 0.4
+        }
+      ]
+    },
+    {
+      "platform": "threads",
+      "source_url": "https://www.threads.com/@ninomi_maru/post/Dbpfz-rj1ir",
+      "creator_handle": "ninomi_maru",
+      "published_at": "2026-08-04",
+      "title_or_summary": "70過ぎの父親からコスメデコルテのプレゼントをもらって嬉しかった",
+      "content_type": "threads_post",
+      "verification": "direct_fetch",
+      "discovery_query": "site:threads.com コスメ プレゼント もらって 嬉しかった",
+      "metrics": {"views": 423, "likes": 2},
+      "items": [
+        {
+          "brand": "コスメデコルテ",
+          "name": "誕生日プレゼント（具体的アイテム名は投稿に記載なし）",
+          "observed_price_jpy": null,
+          "rank_in_post": null,
+          "recipient_tags": ["自分"],
+          "occasion_tags": ["誕生日"],
+          "age_tags": [],
+          "budget_tags": [],
+          "style_tags": ["もらって嬉しい", "高級コスメ", "親からの贈り物"],
+          "recommendation_reason": "70代の父からの誕生日プレゼント。嬉しさと同時に『なんでこんなブランド知ってるの』と驚きを表明",
+          "sentiment": "positive",
+          "extraction_confidence": 0.35
+        }
+      ]
+    },
+    {
+      "platform": "threads",
+      "source_url": "https://www.threads.com/@kumanekomon/post/DTsOXxfgSLy",
+      "creator_handle": "kumanekomon",
+      "published_at": "2026-01-19",
+      "title_or_summary": "PRADA BEAUTYのバースデーギフト（ブランドロゴ入りシルバーのカッサ）に感激",
+      "content_type": "threads_post",
+      "verification": "direct_fetch",
+      "discovery_query": "site:threads.com コスメ プレゼント もらって 嬉しかった",
+      "metrics": {"views": 1800, "likes": 16},
+      "items": [
+        {
+          "brand": "PRADA BEAUTY",
+          "name": "カッサ（ブランドロゴ入りシルバー）",
+          "observed_price_jpy": null,
+          "rank_in_post": null,
+          "recipient_tags": ["自分"],
+          "occasion_tags": ["誕生日"],
+          "age_tags": [],
+          "budget_tags": [],
+          "style_tags": ["購入特典", "高級感", "もらって嬉しい"],
+          "recommendation_reason": "何か1つ購入すればもらえるバースデーギフト。ブランドロゴ入りシルバーのカッサに『高級感すごすぎて震える』『嬉しすぎる』と高評価",
+          "sentiment": "positive",
+          "extraction_confidence": 0.5
+        }
+      ]
+    },
+    {
+      "platform": "threads",
+      "source_url": "https://www.threads.com/@lily_10.23/post/DThObzTESG9",
+      "creator_handle": "lily_10.23",
+      "published_at": "2026-01-14",
+      "title_or_summary": "出産祝いでもらって嬉しかったもの：ジェラートピケのブランケット、ノースフェイスの帽子と手袋、名前入りスリーパー",
+      "content_type": "threads_post",
+      "verification": "direct_fetch",
+      "discovery_query": "site:threads.com 出産祝い もらって嬉しかった ブランド",
+      "metrics": {"views": 216, "likes": 2, "comments": 1},
+      "items": [
+        {
+          "brand": "ジェラートピケ",
+          "name": "ブランケット",
+          "observed_price_jpy": null,
+          "rank_in_post": 1,
+          "recipient_tags": ["赤ちゃん", "新生児"],
+          "occasion_tags": ["出産祝い"],
+          "age_tags": ["ベビー"],
+          "budget_tags": [],
+          "style_tags": ["もらって嬉しい", "出産祝い定番"],
+          "recommendation_reason": "出産祝いでもらって嬉しかった品として本文で明記",
+          "sentiment": "positive",
+          "extraction_confidence": 0.55
+        },
+        {
+          "brand": "ザ・ノース・フェイス",
+          "name": "帽子と手袋",
+          "observed_price_jpy": null,
+          "rank_in_post": 2,
+          "recipient_tags": ["赤ちゃん", "新生児"],
+          "occasion_tags": ["出産祝い"],
+          "age_tags": ["ベビー"],
+          "budget_tags": [],
+          "style_tags": ["もらって嬉しい", "出産祝い定番"],
+          "recommendation_reason": "出産祝いでもらって嬉しかった品として本文で明記。あわせて、おむつ・ミルク系は好みが分かれるため避けた方が良いとアドバイスあり",
+          "sentiment": "positive",
+          "extraction_confidence": 0.55
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "run": {
+    "collection_mode": "discovery",
+    "platform": "lemon8",
+    "query": "女友達 誕生日プレゼント / 5000円 ギフト（エンジン比較プローブ: Sonnet+WebFetch）",
+    "status": "done",
+    "notes": "TikTokはWebSearchでdiscoverページのみで個別動画URL取得不可。Lemon8個別投稿はWebFetchで本文確認済。商品名がカテゴリ名のみ（口紅・ハンドクリーム等）の2投稿はmention化せず除外。"
+  },
+  "posts": [
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/akane.gift/7097180857441583621",
+      "creator_handle": "akane.gift",
+      "creator_name": "あかね.喜ばれるギフト",
+      "creator_followers": 3406,
+      "published_at": "2022-05-13",
+      "title_or_summary": "【予算5000円】女友達が本当に喜ぶ誕生日プレゼント4選｜実用的でハイセンス",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "女友達 誕生日プレゼント 5000円",
+      "metrics": { "likes": 47, "saves": 31 },
+      "items": [
+        { "brand": "SHIRO", "name": "Rainy Walk ヘアオイル", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["消耗品", "自分では買わない", "おしゃれ"], "recommendation_reason": "柑橘系で夏でも重くないヘアオイル。毎日使う消耗品として外しにくいと紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "IPSA", "name": "ザ・タイムR アクア", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["定番", "実用的"], "recommendation_reason": "SNSで指名買いされる定番化粧水。肌質不明でも無難で外しにくいと紹介", "sentiment": "positive", "extraction_confidence": 0.95 },
+        { "brand": "Anny", "name": "バスフレグランスボックス", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["高見え", "おしゃれ"], "recommendation_reason": "花の入浴剤で見た目が華やか、開封時に映えると紹介", "sentiment": "positive", "extraction_confidence": 0.9 },
+        { "brand": "DEAN & DELUCA", "name": "マグ・コーヒーセット", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達", "女性"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["実用的", "定番"], "recommendation_reason": "毎朝使える実用系。在宅ワーク・学生に喜ばれたと紹介", "sentiment": "positive", "extraction_confidence": 0.9 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/@minaide_ne/7120264950936846854",
+      "creator_handle": "minaide_ne",
+      "creator_name": "カリン@キラキラしたい限界OL",
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "予算5,000円で見つける！かわいくて上品なピアス12選【プレゼントにもおすすめ】",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "女友達 プレゼント 5000円",
+      "metrics": { "likes": 97, "saves": 71 },
+      "items": [
+        { "brand": "MARY QUANT", "name": "ブラックデイジーピアス", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "5000円以内で上品に見えるピアスとして紹介", "sentiment": "positive", "extraction_confidence": 0.85 },
+        { "brand": "marc mirren", "name": "ゴールドフープパールピアス", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ", "高見え"], "recommendation_reason": "高見えするパールフープとして紹介", "sentiment": "positive", "extraction_confidence": 0.85 },
+        { "brand": "ESTELLE", "name": "K10ピンクゴールドハートフックピアス", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "K10素材で予算内の本格ジュエリーとして紹介", "sentiment": "positive", "extraction_confidence": 0.85 },
+        { "brand": "agnès b.", "name": "カラーハートピアス", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "ブランド感がありつつ予算内と紹介", "sentiment": "positive", "extraction_confidence": 0.85 },
+        { "brand": "ebine", "name": "スネークチェーンピアス", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ"], "recommendation_reason": "トレンド感のあるチェーンデザインとして紹介", "sentiment": "positive", "extraction_confidence": 0.8 },
+        { "brand": "PANDORA", "name": "スパークリングインフィニティスタッドピアス", "observed_price_jpy": null, "rank_in_post": 6, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": ["20代"], "budget_tags": ["3000-5000"], "style_tags": ["おしゃれ", "定番"], "recommendation_reason": "定番ブランドの華奢ピアスとして紹介", "sentiment": "positive", "extraction_confidence": 0.85 }
+      ]
+    },
+    {
+      "platform": "lemon8",
+      "source_url": "https://www.lemon8-app.com/mery.jp/7159562488437146118",
+      "creator_handle": "mery.jp",
+      "creator_name": "MERY",
+      "creator_followers": 15200,
+      "published_at": null,
+      "title_or_summary": "【2000円台】女友達が喜ぶセンスのいいプレゼント3選｜誕生日・お礼・プレゼント交換に",
+      "content_type": "lemon8_post",
+      "verification": "browser_verified",
+      "discovery_query": "女友達 プレゼント",
+      "metrics": { "likes": 1664, "saves": 1757, "comments": 13 },
+      "items": [
+        { "brand": "IPSA", "name": "ザ・タイムR デイエッセンススプレー（THE TIME RESET MICRO MIST）", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "お礼", "プレゼント交換"], "age_tags": ["20代"], "budget_tags": ["2000-3000"], "style_tags": ["センスいい", "消耗品"], "recommendation_reason": "携帯できるミスト化粧水。2000円台でデパコス感が出せると紹介", "sentiment": "positive", "extraction_confidence": 0.9 },
+        { "brand": "uka", "name": "スカルプブラシ ケンザン", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "お礼", "プレゼント交換"], "age_tags": ["20代"], "budget_tags": ["2000-3000"], "style_tags": ["センスいい", "実用的", "自分では買わない"], "recommendation_reason": "自分では買わないが使うと手放せないバスグッズとして紹介", "sentiment": "positive", "extraction_confidence": 0.9 },
+        { "brand": "SHIRO", "name": "ファブリックソフナー", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日", "お礼", "プレゼント交換"], "age_tags": ["20代"], "budget_tags": ["2000-3000"], "style_tags": ["センスいい", "消耗品", "おしゃれ"], "recommendation_reason": "SHIROの香りを日用品で楽しめる柔軟剤として紹介", "sentiment": "positive", "extraction_confidence": 0.9 }
+      ]
+    }
+  ]
+}

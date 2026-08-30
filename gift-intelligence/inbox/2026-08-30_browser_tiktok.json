@@ -1,0 +1,39 @@
+{
+  "run": {
+    "collection_mode": "discovery",
+    "platform": "tiktok",
+    "query": "女友達 プレゼント（Claudeブラウザ直接収集）",
+    "status": "partial",
+    "notes": "TikTok Web検索はログインなしで閲覧可能（いいね数・投稿日付き一覧が取れる）。動画ページも開けて指標（likes/comments/saves/shares）取得可。ただし商品名は動画フレーム内のみで本文に無く、mention抽出不可。写真（カルーセル）投稿はログイン壁。回避はしない方針。ギフト系有力アカウント（ギフト犬=34.1K likes投稿、さら、Nina|褒められギフトの達人、maru_gift__、chuna_gift、nikori_giftidea）はWatchlist候補として記録価値あり。posts_checked=20（検索結果から個別確認2件）。"
+  },
+  "posts": [
+    {
+      "platform": "tiktok",
+      "source_url": "https://www.tiktok.com/@gift_ken11/video/7298691016901676306",
+      "creator_handle": "gift_ken11",
+      "creator_name": "ギフト犬 りあるにもらって嬉しいプレゼント＆贅沢ご褒美",
+      "creator_followers": null,
+      "published_at": "2023-11-07",
+      "title_or_summary": "これ渡せばハズレなし（#女友達プレゼント #予算5000円）",
+      "content_type": "tiktok_video",
+      "verification": "browser_verified",
+      "discovery_query": "女友達 プレゼント",
+      "metrics": { "likes": 34100, "comments": 216, "saves": 10000, "shares": 517 },
+      "items": []
+    },
+    {
+      "platform": "tiktok",
+      "source_url": "https://www.tiktok.com/@web11532gx8/video/7481565051552517394",
+      "creator_handle": "web11532gx8",
+      "creator_name": "さら",
+      "creator_followers": null,
+      "published_at": "2025-03-14",
+      "title_or_summary": "予算3000円で買える!!女友達に渡したいプレゼン5選（コスメ）",
+      "content_type": "tiktok_video",
+      "verification": "browser_verified",
+      "discovery_query": "女友達 プレゼント",
+      "metrics": { "likes": 24900, "comments": 113, "saves": 6336, "shares": 281 },
+      "items": []
+    }
+  ]
+}

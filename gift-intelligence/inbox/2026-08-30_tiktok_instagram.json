@@ -1,0 +1,79 @@
+{
+  "run": {
+    "collection_mode": "discovery",
+    "platform": "tiktok+instagram",
+    "query": "彼女 プレゼント / 女友達 プレゼント 5000円 / 誕生日プレゼント もらって嬉しい / プレゼント 紹介 tiktok / ギフト おすすめ instagram ほか",
+    "status": "partial",
+    "notes": "TikTok: WebSearchは個別動画URL（/@user/video/ID形式）を一件も返さず、常に/discover/または/tag/のトピック集約ページのみを返した（多数のクエリ変形・英語/日本語混在で試行）。/discover/ページをWebFetchで開いても『TikTok - Make Your Day』というタイトルのみが返り、本文・動画リンク・投稿者情報は一切取得できず（クライアントサイドレンダリング必須のためWebFetchの静的HTML取得では中身が見えない）。個別動画へのアクセス経路が見つからず、TikTokは完全にblocked。Instagram: WebSearchでinstagram.com/p/のURLは複数発見できた。WebFetchで開くと大半（4/9件）はキャプション本文が『Instagram』の1行のみでログイン壁により中身が見えずblocked。5件は開けてキャプション全文・投稿者ハンドルが取得できたが、うち2件（ico_present中学生彼女プレゼント、mote_gift彼女クリスマスプレゼント）は本文が一般的な煽り文のみで具体的な商品名が本文に含まれず（商品詳細は画像内のみ）items採用を見送った。残り3件（seina.tsukimori、ico_present別投稿、rili.tokyo）は商品名・ブランド名が本文またはハッシュタグから明確に読み取れたためitemsとして採用。いいね数はログイン壁のため大半非表示（取得できたのは2件のみ、うち1件は不採用投稿）。回避策・ミラーサイト・ログイン突破は一切行っていない。"
+  },
+  "posts": [
+    {
+      "platform": "instagram",
+      "source_url": "https://www.instagram.com/p/CPnKb82Do-B/",
+      "creator_handle": "seina.tsukimori",
+      "creator_name": null,
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "ハイブランドの お手頃プレゼント（1000円〜5000円台でオシャレなプレゼントができるハイブランドコスメ紹介）",
+      "content_type": "instagram_post",
+      "verification": "browser_verified",
+      "discovery_query": "site:instagram.com/p 誕生日プレゼント おすすめ ブランド名 価格 円",
+      "metrics": {"likes": 4400},
+      "items": [
+        {"brand": "Dior", "name": "コスメ（リップ／ネイル等、投稿画像内に詳細）", "observed_price_jpy": null, "rank_in_post": null, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-5000"], "style_tags": ["センスいい"], "recommendation_reason": "1000円台からのハイブランドプチプラコスメとして投稿のハッシュタグに記載。具体的な商品名・価格は画像内のため本文からは未確認", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": "CHANEL", "name": "コスメ（リップ／ネイル等、投稿画像内に詳細）", "observed_price_jpy": null, "rank_in_post": null, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-5000"], "style_tags": ["センスいい"], "recommendation_reason": "同上。ハッシュタグに記載", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": "Yves Saint Laurent", "name": "コスメ（リップ／ネイル等、投稿画像内に詳細）", "observed_price_jpy": null, "rank_in_post": null, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-5000"], "style_tags": ["センスいい"], "recommendation_reason": "同上。ハッシュタグに記載", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": "Hermès", "name": "コスメ（リップ／ネイル等、投稿画像内に詳細）", "observed_price_jpy": null, "rank_in_post": null, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-5000"], "style_tags": ["センスいい"], "recommendation_reason": "同上。ハッシュタグに記載", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": "Gucci", "name": "コスメ（リップ／ネイル等、投稿画像内に詳細）", "observed_price_jpy": null, "rank_in_post": null, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-5000"], "style_tags": ["センスいい"], "recommendation_reason": "同上。ハッシュタグに記載", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": "Chloé", "name": "コスメ（リップ／ネイル等、投稿画像内に詳細）", "observed_price_jpy": null, "rank_in_post": null, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-5000"], "style_tags": ["センスいい"], "recommendation_reason": "同上。ハッシュタグに記載", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": "Tiffany & Co.", "name": "コスメ（リップ／ネイル等、投稿画像内に詳細）", "observed_price_jpy": null, "rank_in_post": null, "recipient_tags": ["女性"], "occasion_tags": [], "age_tags": [], "budget_tags": ["1000-5000"], "style_tags": ["センスいい"], "recommendation_reason": "同上。ハッシュタグに記載", "sentiment": "positive", "extraction_confidence": 0.5}
+      ]
+    },
+    {
+      "platform": "instagram",
+      "source_url": "https://www.instagram.com/p/C7BusBkShDN/",
+      "creator_handle": "ico_present",
+      "creator_name": "ico｜女子に喜ばれるモテギフト・プレゼント",
+      "creator_followers": 52000,
+      "published_at": "2024-05-16",
+      "title_or_summary": "4万円以下ハイブラ誕プレ（値上がりが続くハイブランドの中から予算4万円以内で買える彼女への誕生日ギフトを紹介）",
+      "content_type": "instagram_post",
+      "verification": "browser_verified",
+      "discovery_query": "site:instagram.com/p 誕生日プレゼント おすすめ ブランド名 価格 円",
+      "metrics": {},
+      "items": [
+        {"brand": "Gentle Monster", "name": "サングラス", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["彼女"], "occasion_tags": ["誕生日", "記念日"], "age_tags": [], "budget_tags": ["0-40000"], "style_tags": ["センスいい"], "recommendation_reason": "季節に合うプレゼントとして本文中で名指しで推奨されていた", "sentiment": "positive", "extraction_confidence": 0.65}
+      ]
+    },
+    {
+      "platform": "instagram",
+      "source_url": "https://www.instagram.com/p/DOgRCO-k3dC/",
+      "creator_handle": "rili.tokyo",
+      "creator_name": null,
+      "creator_followers": null,
+      "published_at": null,
+      "title_or_summary": "テイスト別 お友達に贈りたい誕生日プレゼント（友達の初めての誕生日に何をあげるか迷う人向けのテイスト別ギフト紹介、17点）",
+      "content_type": "instagram_post",
+      "verification": "browser_verified",
+      "discovery_query": "site:instagram.com/p 誕生日プレゼント おすすめ ブランド名 価格 円",
+      "metrics": {},
+      "items": [
+        {"brand": "Aíam", "name": "chapter65（香水）", "observed_price_jpy": null, "rank_in_post": 1, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["おしゃれ"], "recommendation_reason": "テイスト別友達向け誕生日ギフトとして本文中に列挙", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "PANDORA", "name": "カスタムブレスレット", "observed_price_jpy": null, "rank_in_post": 2, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["センスいい"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "SCULPTOR", "name": "ウォレットケース", "observed_price_jpy": null, "rank_in_post": 3, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["実用的"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "aeae", "name": "ロゴキャップ", "observed_price_jpy": null, "rank_in_post": 4, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["おしゃれ"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "Balenciaga", "name": "le city（バッグ）", "observed_price_jpy": null, "rank_in_post": 5, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["センスいい"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "medicube", "name": "美顔器", "observed_price_jpy": null, "rank_in_post": 6, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["もらって嬉しい"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "POP MART", "name": "LABUBU（ラブブ）", "observed_price_jpy": null, "rank_in_post": 7, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["もらって嬉しい"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.55},
+        {"brand": "Swarovski", "name": "アクセサリー", "observed_price_jpy": null, "rank_in_post": 8, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["センスいい"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "Her lip to", "name": "香水", "observed_price_jpy": null, "rank_in_post": 9, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["おしゃれ"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "aeae", "name": "ロゴT", "observed_price_jpy": null, "rank_in_post": 10, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["おしゃれ"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "openyy", "name": "メッシュキャップ", "observed_price_jpy": null, "rank_in_post": 11, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["おしゃれ"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.55},
+        {"brand": "ason", "name": "デニムパンツ", "observed_price_jpy": null, "rank_in_post": 12, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["おしゃれ"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.55},
+        {"brand": "Care Bears", "name": "ケアベアグッズ（ぬいぐるみ等）", "observed_price_jpy": null, "rank_in_post": 13, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["もらって嬉しい"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.5},
+        {"brand": "New Era", "name": "おそろいキャップ", "observed_price_jpy": null, "rank_in_post": 14, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["おしゃれ"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6},
+        {"brand": "Kodak", "name": "デジタルカメラ", "observed_price_jpy": null, "rank_in_post": 15, "recipient_tags": ["女友達"], "occasion_tags": ["誕生日"], "age_tags": [], "budget_tags": [], "style_tags": ["もらって嬉しい"], "recommendation_reason": "同上", "sentiment": "positive", "extraction_confidence": 0.6}
+      ]
+    }
+  ]
+}
