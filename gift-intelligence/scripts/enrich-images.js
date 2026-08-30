@@ -69,7 +69,7 @@ function scaledImage(url) {
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /** 検索キーワード用の商品名整形: 括弧内の別名・英名を除去し、API非対応文字を潰す */
-function searchName(name) {
+export function searchName(name) {
   return String(name)
     .replace(/（[^）]*）|\([^)]*\)/g, ' ')
     .replace(/[&＆/／|]/g, ' ')
