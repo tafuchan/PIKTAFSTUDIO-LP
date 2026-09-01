@@ -232,8 +232,9 @@ article h1 { font-size: 26px; font-weight: 900; line-height: 1.5; margin-bottom:
     margin-bottom: 4px;
 }
 .toc ol {
-    margin: 0 0 0 20px;
+    margin: 0;
     padding: 0;
+    list-style-position: inside;
 }
 .toc li { margin: 2px 0; }
 .toc a {
@@ -253,7 +254,12 @@ article h2 {
 }
 article h3 { font-size: 15.5px; font-weight: 800; margin: 24px 0 8px; }
 article p { margin-bottom: 14px; }
-article ul, article ol { margin: 0 0 14px 22px; }
+/* 箇条書きは行頭を字下げしない（・や1.を左端に揃えて読みやすく） */
+article ul, article ol {
+    margin: 0 0 14px;
+    padding-left: 0;
+    list-style-position: inside;
+}
 article li { margin-bottom: 4px; }
 article table {
     width: 100%;
