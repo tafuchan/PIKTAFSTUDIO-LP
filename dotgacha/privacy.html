@@ -47,7 +47,7 @@
             <div class="legal-header">
                 <p class="legal-label">Privacy Policy</p>
                 <h1 class="legal-title">プライバシーポリシー</h1>
-                <p class="legal-updated">最終改定日: 2026年7月7日</p>
+                <p class="legal-updated">最終改定日: 2026年9月3日</p>
                 <p class="legal-langs">日本語 · <a href="privacy-en.html">English</a> · <a href="privacy-fr.html">Français</a></p>
             </div>
 
@@ -60,7 +60,7 @@
                 </dl>
 
                 <h2>2. 取得する情報</h2>
-                <p>当方は、スマートフォンアプリ「ドットガチャ」（以下「本アプリ」といいます）の提供にあたり、以下の情報を取得します。<strong>本アプリはアカウント登録なしで、匿名のままご利用いただけます</strong>（電話番号や住所の入力は一切求めません）。データの引き継ぎのために Google または Apple でのサインインを<strong>任意で</strong>ご利用いただけます。サインインされた場合に限り、そのアカウントの表示名とメールアドレスを取得します。</p>
+                <p>当方は、スマートフォンアプリおよびブラウザ版（dotgacha.com）の「ドットガチャ」（以下あわせて「本アプリ」といいます）の提供にあたり、以下の情報を取得します。<strong>本アプリはアカウント登録なしで、匿名のままご利用いただけます</strong>（電話番号や住所の入力は一切求めません）。データの引き継ぎのために Google または Apple でのサインインを<strong>任意で</strong>ご利用いただけます。サインインされた場合に限り、そのアカウントの表示名とメールアドレスを取得します。</p>
                 <p><strong>ユーザーに関する情報</strong></p>
                 <ul>
                     <li>匿名の利用者識別子（Firebase 匿名認証により自動発行されるID）</li>
@@ -69,6 +69,7 @@
                     <li>飾りボードの配置内容と、ボードに配置された文字（クラウドへの保存と、公開を選ばれた場合の表示に利用します）</li>
                     <li>ゲーム内データ（獲得したドット絵、コイン・チケット残高、ミッション／ログインの進捗、飾りの購入状況など）</li>
                     <li>アプリ内課金の購入情報（課金をご利用の場合。購入した商品・トランザクションIDなど）</li>
+                    <li>プッシュ通知の送信先トークン（通知を「オン」にされた場合のみ。お知らせやミッションの通知を届けるために利用します。通知を「オフ」にすると削除されます）</li>
                     <li>お問い合わせの内容（メール等でご連絡いただいた場合）</li>
                 </ul>
                 <p><strong>自動的に取得する情報</strong></p>
@@ -109,11 +110,18 @@
                         <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">https://firebase.google.com/support/privacy</a></li>
                     <li>RevenueCat（アプリ内課金の管理・レシート検証）<br>
                         <a href="https://www.revenuecat.com/privacy" target="_blank" rel="noopener">https://www.revenuecat.com/privacy</a></li>
-                    <li>Google Play 請求サービス（アプリ内課金の決済）<br>
+                    <li>Firebase Cloud Messaging（プッシュ通知の配信）<br>
+                        <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">https://firebase.google.com/support/privacy</a></li>
+                    <li>Google reCAPTCHA Enterprise（ブラウザ版での不正アクセス対策。端末・ブラウザの情報と操作の特徴を取得します）<br>
                         <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">https://policies.google.com/privacy</a></li>
+                    <li>Google Play 請求サービス / Apple App Store（アプリ内課金の決済）<br>
+                        <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google</a> ·
+                        <a href="https://www.apple.com/legal/privacy/" target="_blank" rel="noopener">Apple</a></li>
+                    <li>Stripe（ブラウザ版の決済。カード情報は Stripe が直接取得し、当方は保持しません）<br>
+                        <a href="https://stripe.com/privacy" target="_blank" rel="noopener">https://stripe.com/privacy</a></li>
                     <li>Google AdMob（広告配信）<br>
                         <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">https://policies.google.com/privacy</a></li>
-                    <li>Cloudflare R2（画像の配信）<br>
+                    <li>Cloudflare R2 / Cloudflare Pages（画像の配信、ブラウザ版の配信。アクセスログを取得します）<br>
                         <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">https://www.cloudflare.com/privacypolicy/</a></li>
                 </ul>
 
@@ -125,7 +133,7 @@
                 </ul>
 
                 <h2>7. Cookie等の利用</h2>
-                <p>本アプリでは、利便性向上および分析のためCookieおよび類似の技術（端末上の保存領域を含む）を利用することがあります。ユーザーは端末またはアプリの設定でこれらを制限することができます。</p>
+                <p>本アプリでは、利便性向上および分析のためCookieおよび類似の技術（端末上の保存領域を含む）を利用することがあります。ブラウザ版では、ログイン状態や設定の保持のためにブラウザの保存領域（localStorage 等）を使用します。ユーザーは端末・ブラウザまたはアプリの設定でこれらを制限することができます。</p>
 
                 <h2>8. 未成年の情報</h2>
                 <p>本アプリは<strong>13歳以上</strong>を対象としています。13歳以上18歳未満のユーザーが本アプリを利用する場合、特にアプリ内課金の利用にあたっては保護者の同意を得てください。13歳未満の方からの情報の取得は行いません。</p>
@@ -183,7 +191,7 @@
                 <p>権利の行使は piktafstudio@gmail.com までご連絡ください。原則として1か月以内に対応します。</p>
 
                 <h3>EU域外へのデータ移転</h3>
-                <p>本アプリが利用する Google（Firebase / AdMob）、RevenueCat、Cloudflare のサーバーは、EU域外（主に米国）に所在する場合があります。これらの事業者は、欧州委員会の標準契約条項（SCC）またはEU-US データプライバシーフレームワークに基づき、移転先での適切な保護水準を確保しています。</p>
+                <p>本アプリが利用する Google（Firebase / AdMob / reCAPTCHA）、RevenueCat、Stripe、Cloudflare のサーバーは、EU域外（主に米国）に所在する場合があります。これらの事業者は、欧州委員会の標準契約条項（SCC）またはEU-US データプライバシーフレームワークに基づき、移転先での適切な保護水準を確保しています。</p>
 
                 <h3>自動化された意思決定</h3>
                 <p>本アプリは、お客様に法的効果または同様に重大な影響を及ぼす、自動化された意思決定やプロファイリングを行っていません。ガチャの抽選は乱数によるもので、お客様の個人データを用いた判断ではありません。</p>
